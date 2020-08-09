@@ -5,15 +5,19 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Welcome! 🌿
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first seed]]</span> to get started on your exploration.
-</p>
+This site is a collection of my thoughts that are organized into Notes. If you're new to digital gardening, check out Maggie Appleton's [History of the Digital Garden](https://maggieappleton.com/garden-history)
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+<div style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+  Notes that I'm stoked about: 
+  <ul>
+    <li>[[ClojureFam]]</li>
+    <li>[[Understanding By Design]]</li>
+  </ul> 
+</div>
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). Say hi! 👋
+My more traditional blog where I publish posts is located at [zacjones.io](https://zacjones.io/)=
 
 <style>
   .wrapper {
