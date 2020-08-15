@@ -1,20 +1,20 @@
 ---
-title: Chapter 4   Sequences
+title: Chapter 4 - Sequences
 ---
 
 
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [Chapter 4: Sequences](#chapter-4-sequences)
-  - [Recursion](#recursion)
-  - [generalizing](#generalizing)
-  - [Building sequences](#building-sequences)
-  - [Tansforming Sequences](#tansforming-sequences)
-  - [Subsequences](#subsequences)
-  - [Collapsing sequences](#collapsing-sequences)
-  - [Collapse a Sequence with reduce](#collapse-a-sequence-with-reduce)
-  - [Putting it together](#putting-it-together)
+- [Table of Contents](#table-of-contents){: .internal-link}
+- [Chapter 4: Sequences](#chapter-4-sequences){: .internal-link}
+  - [Recursion](#recursion){: .internal-link}
+  - [generalizing](#generalizing){: .internal-link}
+  - [Building sequences](#building-sequences){: .internal-link}
+  - [Tansforming Sequences](#tansforming-sequences){: .internal-link}
+  - [Subsequences](#subsequences){: .internal-link}
+  - [Collapsing sequences](#collapsing-sequences){: .internal-link}
+  - [Collapse a Sequence with reduce](#collapse-a-sequence-with-reduce){: .internal-link}
+  - [Putting it together](#putting-it-together){: .internal-link}
 
 
 <a id="org9058a45"></a>

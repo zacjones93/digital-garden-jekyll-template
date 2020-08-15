@@ -1,18 +1,18 @@
 ---
-title: Chapter 6   State
+title: Chapter 6 - State
 ---
 
 
 # Table of Contents
 
-1.  [Chapter 6: State](#org6cb88a7)
-    1.  [Immutability](#org8f3b30d)
-    2.  [Delays](#orgc71d8ac)
-    3.  [Futures](#org2069281)
-    4.  [Promises](#org136470b)
-    5.  [Vars](#org36f8297)
-    6.  [Atoms](#org4b3900e)
-    7.  [Refs](#orgee73b0c)
+1.  [Chapter 6: State](#org6cb88a7){: .internal-link}
+    1.  [Immutability](#org8f3b30d){: .internal-link}
+    2.  [Delays](#orgc71d8ac){: .internal-link}
+    3.  [Futures](#org2069281){: .internal-link}
+    4.  [Promises](#org136470b){: .internal-link}
+    5.  [Vars](#org36f8297){: .internal-link}
+    6.  [Atoms](#org4b3900e){: .internal-link}
+    7.  [Refs](#orgee73b0c){: .internal-link}
 
 
 <a id="org6cb88a7"></a>

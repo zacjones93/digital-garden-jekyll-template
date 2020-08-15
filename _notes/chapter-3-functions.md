@@ -4,13 +4,13 @@ title: Chapter 3 - Functions
 
 # Table of Contents
 
-1.  [Chapter 3: Functions](#orgbe96178)
-    1.  [Resources](#org3241cd5)
-    2.  [let bindings](#org211451a)
-    3.  [Functions](#orge2b7169)
-    4.  [Vars](#org0b77b70)
-    5.  [Defining functions](#orgb6d2581)
-    6.  [How does type work?](#org10e26b6)
+1.  [Chapter 3: Functions](#orgbe96178){: .internal-link}
+    1.  [Resources](#org3241cd5){: .internal-link}
+    2.  [let bindings](#org211451a){: .internal-link}
+    3.  [Functions](#orge2b7169){: .internal-link}
+    4.  [Vars](#org0b77b70){: .internal-link}
+    5.  [Defining functions](#orgb6d2581){: .internal-link}
+    6.  [How does type work?](#org10e26b6){: .internal-link}
 
 
 <a id="orgbe96178"></a>
