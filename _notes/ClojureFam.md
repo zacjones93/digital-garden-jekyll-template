@@ -12,5 +12,7 @@ When you sign up, you are assigned to a team. I'm in [[Team Phanes]] with severa
 
 We are working through [[Clojure from the Ground Up]] and [[Clojure for the Brave and True]].
 
+I'm working through [4Clojure](http://www.4clojure.com/) problems and writing up solutions to some of those problems here: [[4Clojure]] 
+
 I am #learninginpublic in [this twitter thread](https://twitter.com/zacjones93/status/1290411954037760002?s=20)
 
