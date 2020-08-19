@@ -14,6 +14,7 @@ This site is a collection of my thoughts that are organized into Notes. If you'r
   <ul>
     <li>[[ClojureFam]]</li>
     <li>[[Understanding By Design]]</li>
+    <li>[[egghead]]</li>
   </ul> 
 </div>
 
