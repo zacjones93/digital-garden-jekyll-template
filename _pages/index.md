@@ -18,7 +18,7 @@ This site is a collection of my thoughts that are organized into Notes. If you'r
   </ul> 
 </div>
 
-My more traditional blog where I publish posts is located at [zacjones.io](https://zacjones.io/)=
+My more traditional blog where I publish posts is located at [zacjones.io](https://zacjones.io/)
 
 <style>
   .wrapper {

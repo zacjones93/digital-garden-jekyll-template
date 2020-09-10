@@ -1,6 +1,11 @@
 title:               Zac's digital garden
 include:             ['_pages']
 
+minima:
+  social_links:
+    twitter: zacjones93
+    github:  zacjones93
+
 permalink:           pretty
 relative_permalinks: false
 
@@ -25,3 +30,4 @@ defaults:
       path: "_notes/**/*.md"
     values:
       layout: "note"
+
