@@ -7,9 +7,6 @@ Where [[Micah Meadowcroft]] and I learn wine.
 # Table of Contents
 
 1.  [Template](#org55d46e1)
-    1.  [Metadata](#org0832af1)
-    2.  [Review](#org6004eec)
-    3.  [Notes](#orgd442c5c)
 2.  [Vintage Upper Left 2017](#orga2b9187)
     1.  [Metadata](#orgf106bb6)
     2.  [Review](#org3975d5e)
@@ -39,18 +36,13 @@ Where [[Micah Meadowcroft]] and I learn wine.
 
 
 <a id="org55d46e1"></a>
-
-# Template
-
+<details><summary>Template</summary>
+<p>
 -   Bad Deal/Worth Your Money/Good Deal
 -   Reviewed
 -   Participants
 
-
-<a id="org0832af1"></a>
-
-## Metadata
-
+### Metadata
 -   Origin:
 -   Vintor:
 -   Variety:
@@ -58,18 +50,18 @@ Where [[Micah Meadowcroft]] and I learn wine.
 -   ABV:
 -   Price Point:
 
-
-<a id="org6004eec"></a>
-
-## Review
+### Review
 
 -   Look:
 -   Smell:
 -   Taste:
-    Smooth/tanic
+    Smooth/tannic
     Light/bold
     dry/sweet
     soft/acidic
+
+</p>
+</details>
 
 
 <a id="orgd442c5c"></a>
