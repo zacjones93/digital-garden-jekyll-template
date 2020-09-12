@@ -1,5 +1,5 @@
 ---
-title: Wine Tasting
+title: 🍷 Wine Tasting
 ---
 
 
