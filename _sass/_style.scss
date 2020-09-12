@@ -75,6 +75,13 @@ h6 {
   padding-bottom: 0;
 }
 
+// regex selecting all elements that have id starting with 'org'
+[id^="org"] {
+  &:after {
+    content: "";
+  }
+}
+
 a {
   text-decoration: none;
   border-bottom: 1px solid $color-border;
