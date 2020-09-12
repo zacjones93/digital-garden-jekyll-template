@@ -13,3 +13,4 @@ title: Kevin Cunningham
   Clojure, Express 
 - Tags 
   [[egghead instructor]]
+  [[Learner Advocate]]
