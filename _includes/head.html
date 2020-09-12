@@ -27,9 +27,11 @@
   {% if page.title %}
   <meta property="og:title" content="{{ page.title }}">
   <meta property="og:type" content="article">
+  <meta name="twitter:title" content="{{page.title}}" />
   {% else %}
   <meta property="og:title" content="{{ site.title }}">
   <meta property="og:type" content="website">
+  <meta name="twitter:title" content="{{site.title}}" />
   {% endif %}
 
   {% if page.date %}
@@ -38,14 +40,13 @@
   {% endif %}
 
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-
-  {% if page.image %}
-  <meta property="og:image" content="{{ site.url }}{{ page.image }}">
+  
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@zacjones93" />
   <meta name="twitter:creator" content="{{site.minima.social_links.twitter}}" />
-  <meta name="twitter:title" content="{{page.title}}" />
-  <meta name="twitter:image" content="{{ page.image }}" />
+  {% if page.image %}
+  <meta property="og:image" content="{{ site.url }}{{ page.image }}">
+  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
   {% endif %}
 
   <!-- favicon -->
