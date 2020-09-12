@@ -1,5 +1,6 @@
 title:               Zac's digital garden
 include:             ['_pages']
+url:                 https://zacjones.dev/
 
 minima:
   social_links:
