@@ -1,6 +1,6 @@
 ---
 title: 🍷 Wine Tasting
-image: /assets/images/hermes-rivera-aK6WGqxyHFw-unsplash.jpg
+image: assets/images/hermes-rivera-aK6WGqxyHFw-unsplash.jpg
 ---
 <span>Photo by <a href="https://unsplash.com/@hermez777?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Hermes Rivera</a> on <a href="https://unsplash.com/s/photos/wine?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
