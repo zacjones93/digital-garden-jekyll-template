@@ -2,7 +2,7 @@
 title: 🍷 Wine Tasting
 image: assets/images/hermes-rivera-aK6WGqxyHFw-unsplash.jpg
 ---
-<span>Photo by <a href="https://unsplash.com/@hermez777?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Hermes Rivera</a> on <a href="https://unsplash.com/s/photos/wine?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+Where [[Micah Meadowcroft]] and I learn wine.
 
 # Table of Contents
 
@@ -35,7 +35,7 @@ image: assets/images/hermes-rivera-aK6WGqxyHFw-unsplash.jpg
     2.  [Review](#orgaa8a22c)
     3.  [Notes](#org30861a2)
 
-Where [[Micah Meadowcroft]] and I learn wine.
+
 
 
 <a id="org55d46e1"></a>
