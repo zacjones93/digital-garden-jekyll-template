@@ -31,6 +31,10 @@ Where [[Micah Meadowcroft]] and I learn wine.
     1.  [Metadata](#orgc6f51d5)
     2.  [Review](#orgaa8a22c)
     3.  [Notes](#org30861a2)
+8.  [Bubo Cellars 2018](#org849182d)
+    1.  [Metadata](#orgff2ee80)
+    2.  [Review](#org0de8da0)
+    3.  [Notes](#org7158629)
 
 
 
@@ -44,7 +48,7 @@ Where [[Micah Meadowcroft]] and I learn wine.
 
 ### Metadata
 -   Origin:
--   Vintor:
+-   Vintner:
 -   Variety:
 -   Year:
 -   ABV:
@@ -82,7 +86,7 @@ Where [[Micah Meadowcroft]] and I learn wine.
 ## Metadata
 
 -   Origin: Columbia Valley
--   Vintor: Vintage Upper Left
+-   Vintner: Vintage Upper Left
 -   Variety: Cabernet Sauvignon
 -   Year: 2017 Wine
 -   ABV: 13.5
@@ -121,7 +125,7 @@ It dies in your mouth
 ## Metadata
 
 -   Origin: Horse Heaven Hills (Walla Walla)
--   Vintor: Undaunted Cellars
+-   Vintner: Undaunted Cellars
 -   Variety: Cabernet Sauvignon
 -   Year: 2018 Wine
 -   ABV: 14.2%
@@ -158,7 +162,7 @@ It dies in your mouth
 ## Metadata
 
 -   Origin: Horse Heaven Hills
--   Vintor: Columbia Crest H3
+-   Vintner: Columbia Crest H3
 -   Variety: Cabernet Sauvignon
 -   Year: 2016 Wine
 -   ABV: 14.5
@@ -200,7 +204,7 @@ It dies in your mouth
 ## Metadata
 
 -   Origin: Mendocino County, California
--   Vintor: Bonterra
+-   Vintner: Bonterra
 -   Variety: Cabernet Sauvignon
 -   Year: 2018 Wine
 -   ABV: 13.8%
@@ -242,7 +246,7 @@ It dies in your mouth
 ## Metadata
 
 -   Origin: Chalk Hill, Sonoma County, California
--   Vintor: Criterion
+-   Vintner: Criterion
 -   Variety: Cabernet Sauvignon
 -   Year: 2017 Wine
 -   ABV: 14.1
@@ -284,7 +288,7 @@ builds in flavor
 ## Metadata
 
 -   Origin: Manteca California
--   Vintor: Trader Moon Wine Company
+-   Vintner: Trader Moon Wine Company
 -   Variety: Cabernet Sauvignon
 -   Year: 2017 Wine
 -   ABV: 13%
@@ -312,4 +316,50 @@ very fruity, a lot of plum
 black pepper
 
 not as tannic as you would think given how it looks and smells. The tannins build but to a light texture in your mouth
+
+<a id="org849182d"></a>
+
+# Bubo Cellars 2018
+
+-   `Bad Deal` /Worth Your Money/Good Deal
+    
+    Not a bad wine but at the price point, would consider other bottles first.
+
+-   Reviewed: <span class="timestamp-wrapper"><span class="timestamp">[2020-09-14 Mon]</span></span>
+-   Participants
+    [[Micah Meadowcroft]]
+
+
+<a id="orgff2ee80"></a>
+
+## Metadata
+
+-   Origin: Manteca, California
+-   Vintner: Bubo
+-   Variety: Cabernet Sauvignon
+-   Year: 2018 Wine
+-   ABV: 13%
+-   Price Point: $9.99
+
+
+<a id="org0de8da0"></a>
+
+## Review
+
+-   Look: Clear purple, low viscosity
+-   Smell: the alcohol is forward, it smells vegetable, pungent but not a strong smell
+-   Taste:
+    `Smooth` / tannic - smooth for a cab, a little tannic builds
+    `Light` *bold
+    dry* `sweet`
+    `soft` /acidic
+
+
+<a id="org7158629"></a>
+
+## Notes
+
+toasted oak, dark cherry from how forward the alcohol is
+whole foods
+
 
