@@ -35,6 +35,9 @@ Where [[Micah Meadowcroft]] and I learn wine.
     1.  [Metadata](#orgff2ee80)
     2.  [Review](#org0de8da0)
     3.  [Notes](#org7158629)
+9.  [Criterion Coonawarra reserve 2018](#org8b4d68f)
+    1.  [Metadata](#org272679b)
+    2.  [Review](#org866b0e5)
 
 
 
@@ -361,5 +364,41 @@ not as tannic as you would think given how it looks and smells. The tannins buil
 
 toasted oak, dark cherry from how forward the alcohol is
 whole foods
+
+<a id="org8b4d68f"></a>
+
+# Criterion Coonawarra reserve 2018
+
+-   `Bad Deal`
+-   Reviewed 2020-09-21
+-   Participants
+-   [Ian Jones](ian_jones.md) [Ashley Jones](ashley_jones.md)
+
+
+<a id="org272679b"></a>
+
+## Metadata
+
+-   Origin: South Australia
+-   Vintner: Criterion
+-   Variety: Cabernet Sauvignon
+-   Year: 2018
+-   ABV: 13.5
+-   Price Point: 19.99
+
+
+<a id="org866b0e5"></a>
+
+## Review
+
+-   Look: deep red, fairly high viscosity
+-   Smell: delicate plum smell. hints of marshmellow, dusty, smells like grapes
+-   Taste: `Smooth` `bold` `sweet` `acidic`
+    juicy, tannins build to a light level, a little peppercorn
+    
+    It&rsquo;s fine, but nothing special about it to be worth $20 to buy again
+
+
+
 
 
