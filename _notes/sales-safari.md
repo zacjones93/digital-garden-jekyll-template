@@ -1,7 +1,7 @@
 ---
 title: Sales Safari
+image: assets/images/d-s-chapman-Vq_hHBHzRuo-unsplash.jpg
 ---
-
 
 # Table of Contents
 
