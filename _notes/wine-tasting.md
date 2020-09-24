@@ -38,7 +38,10 @@ Where [[Micah Meadowcroft]] and I learn wine.
 9.  [Criterion Coonawarra reserve 2018](#org8b4d68f)
     1.  [Metadata](#org272679b)
     2.  [Review](#org866b0e5)
-
+10. [Chateau Ste Michelle 2017](#org0838086)
+    1.  [Metadata](#orgb2ce71b)
+    2.  [Review](#orgcb482bb)
+    3.  [Notes](#orgfc2517d)
 
 
 
@@ -397,6 +400,57 @@ whole foods
     juicy, tannins build to a light level, a little peppercorn
     
     It&rsquo;s fine, but nothing special about it to be worth $20 to buy again
+
+<a id="org0838086"></a>
+
+# Chateau Ste Michelle 2017
+
+-   `Bad Deal`
+-   Reviewed 2020-09-23
+-   Participants
+    [Daniel Chapman](daniel_chapman.md)
+
+
+<a id="orgb2ce71b"></a>
+
+## Metadata
+
+-   Origin: Columbia Valley
+-   Vintner: Chateau Ste Michelle
+-   Variety: Cabernet Sauvignon
+-   Year: 2017
+-   ABV: 13.5
+-   Price Point:
+
+
+<a id="orgcb482bb"></a>
+
+## Review
+
+-   Look: almost completely opaque, deep purple, not very viscos
+-   Smell: over-ripe raspberry, also mid-ripe raspberry, dry like the hight dessert
+-   Taste:
+    Smooth / `tannic`
+    Light / `bold`
+    `dry` / sweet
+    soft / `acidic`
+
+
+<a id="orgfc2517d"></a>
+
+## Notes
+
+clove, black pepper
+Soft start, finishes with a acidic bite.
+Light on the tannins
+spicy 
+
+
+
+
+
+
+
 
 
 
