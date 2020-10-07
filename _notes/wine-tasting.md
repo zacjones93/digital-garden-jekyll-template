@@ -42,6 +42,11 @@ Where [[Micah Meadowcroft]] and I learn wine.
     1.  [Metadata](#orgb2ce71b)
     2.  [Review](#orgcb482bb)
     3.  [Notes](#orgfc2517d)
+11. [Josh Cellars California 2018](#orgfc2520d)
+12. [Girard 2017](#org66762db)
+    1.  [Metadata](#org5973a2c)
+    2.  [Review](#org98a32d1)
+    3.  [Notes](#org096e1ea)
 
 
 
@@ -445,7 +450,80 @@ Soft start, finishes with a acidic bite.
 Light on the tannins
 spicy 
 
+-   `Good Deal` (at TJs)
+-   Reviewed 2020-09-27
+-   Participants
+  
 
+<a id="orgfc2520d"></a>
+
+# Josh Cellars California 2018
+
+## Metadata
+-   Origin: Hop-land California
+-   Vintner: Josh Cellars
+-   Variety: Cabernet Sauvignon
+-   Year: 2018
+-   ABV: 13.5
+-   Price Point:
+
+## Review
+-   Look: deep purple with red tinge
+-   Smell: very fruity, no bite, melon 
+-   Taste:
+    `Smooth` / tannic
+    `Light` / bold
+    dry / `sweet`
+    `soft` / acidic
+
+## Notes
+Almost no tannin
+Flavor isn't too strong. Melon comes through in the flavor
+
+<a id="org66762db"></a>
+
+## Girard 2017
+
+-   Bad Deal/Worth Your Money/Good Deal
+-   Reviewed
+-   Participants
+
+
+<a id="org5973a2c"></a>
+
+## Metadata
+
+-   Origin: Napa Valley
+-   Vintner: Girard
+-   Variety: Cabernet Sauvignon
+-   Year: 2017
+-   ABV: 14.5%
+-   Price Point: 26.99
+
+
+<a id="org98a32d1"></a>
+
+## Review
+
+-   Look: Deep Cherry Red, Light viscosity, almost rosy
+-   Smell: Sweet smelling with floral notes, plummier than cherry
+    smells dry and dusty
+-   Taste:
+    `Smooth` / tannic
+    Light / `bold`
+    `dry` / sweet
+    soft / `acidic`
+
+
+<a id="org096e1ea"></a>
+
+## Notes
+
+floral notes still come through
+fairly acidic
+super bold
+tastes meaty, like sweet blood
+tannins are super low, light texture builds
 
 
 
