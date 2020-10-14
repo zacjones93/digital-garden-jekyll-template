@@ -380,7 +380,7 @@ whole foods
 -   `Bad Deal`
 -   Reviewed 2020-09-21
 -   Participants
--   [Ian Jones](ian_jones.md) [Ashley Jones](ashley_jones.md)
+-   [[Ian Jones]] [[Ashley Jones]]
 
 
 <a id="org272679b"></a>
