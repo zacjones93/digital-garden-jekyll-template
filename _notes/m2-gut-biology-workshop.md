@@ -1,5 +1,6 @@
 ---
 title: M2 Gut Biology Workshop
+image: assets/images/lukas-blazek-f-TWhXOrLiU-unsplash.jpg
 ---
 
 Taking this workshop with [[Mariah Lower]]. These are the public notes for this workshop.
