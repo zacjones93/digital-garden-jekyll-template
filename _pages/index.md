@@ -12,9 +12,10 @@ This site is a collection of my thoughts that are organized into Notes. If you'r
 <div style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Notes that I'm stoked about: 
   <ul>
-    <li>[[ClojureFam]]</li>
-    <li>[[Understanding By Design]]</li>
-    <li>[[egghead]]</li>
+    <li> ƛ [[ClojureFam]]</li>
+    <li> 🍎 [[Understanding By Design]]</li>
+    <li> 🧑‍💻 [[egghead]]</li>
+    <li> 🍕 [[Nutrition]]</li>
   </ul> 
 </div>
 

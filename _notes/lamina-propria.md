@@ -1,0 +1,3 @@
+---
+title: Lamina Propria
+---
