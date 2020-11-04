@@ -10,6 +10,7 @@ title: Gut Biology Key Terms
     2.  [Breakdown of food -> molecules](#orge4c3555)
     3.  [Simple sugars](#org4894835)
     4.  [Enzymes](#org1e7250c)
+    5.  [Microbiome](#orgd9c7a76)
 
 
 
@@ -71,4 +72,26 @@ Galactose
 -   **[[Protease]]:** These enzymes digest the protein in our diet into single amino acids. People struggling to break down protein can often have increased food sensitivities and allergies
 -   **[[Amylase]]:** These enzymes are responsible for breaking down starches and carbs into simple sugars. Incomplete digestion of carbs can often lead to diarrhea, gas and bloating.
 
+
+
+# Table of Contents
+
+1.  [Microbiome](#orgd9c7a76)
+
+
+<a id="orgd9c7a76"></a>
+
+# Microbiome
+
+- [[Microbiome]] - The genetic material of all the microbes - bacteria, fungi, protozoa and viruses - that live on and inside the human body
+Germ-free mice
+Antibiotics
+Obesity
+Asthma
+Diabetes
+Inflammatory bowel disease
+Dietary emulsifiers
+Artificial sweeteners
+Malnutrition
+Insulin resistance
 

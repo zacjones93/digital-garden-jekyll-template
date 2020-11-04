@@ -37,7 +37,7 @@ If you want to take your understanding of human health to the next level, this i
 - ❓ [[Anatomy and Physiology Questions]]
 
 ## Week 02 
- Introduction to the Microbiome
+ [[Introduction to the Microbiome]]
 ## Week 03
  Connecting the microbiome to Inflammation / Leaky Gut
 ## Week 04
