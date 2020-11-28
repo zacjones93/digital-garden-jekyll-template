@@ -43,7 +43,7 @@ If you want to take your understanding of human health to the next level, this i
 ## Week 04
  [[The Microbiome / Energy Balance and Obesity]]
 ## Week 05
- The Microbiome and Mental Health
+ [[The Microbiome and Mental Health]]
 ## Week 06
  Modulating Gut Health and the Microbiome
 ## Week 07
