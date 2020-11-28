@@ -39,7 +39,7 @@ If you want to take your understanding of human health to the next level, this i
 ## Week 02 
  [[Introduction to the Microbiome]]
 ## Week 03
- Connecting the microbiome to Inflammation / Leaky Gut
+  [[The microbiome / Immune Connection]]
 ## Week 04
  The Microbiome and Metabolism / Obesity
 ## Week 05

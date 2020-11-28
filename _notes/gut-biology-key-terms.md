@@ -11,6 +11,7 @@ title: Gut Biology Key Terms
     3.  [Simple sugars](#org4894835)
     4.  [Enzymes](#org1e7250c)
     5.  [Microbiome](#orgd9c7a76)
+1.  [Immune Connection](#org4648f47)
 
 
 
@@ -94,4 +95,31 @@ Dietary emulsifiers
 Artificial sweeteners
 Malnutrition
 Insulin resistance
+
+<a id="org4648f47"></a>
+
+# Immune Connection
+
+-   [[Immune System]]
+    microbiome contributes to the development of the immune system
+    immune system alters the composition of the [[microbiome]]
+-   [[Pattern recognition receptors]]
+-   [[Pathogen-associated molecular patterns]]
+-   **[[Antibodies]]:** B cells, most importantly [[lgA]]. They bind bad bacteria and renders them useless so they just pass. Another way that the body sees bacteria
+-   **Dendritic cells (DCs):** produce antibodies by binding bacteria that antibodies will be created to fight
+-   **Lymph Nodes:** Places where B cells live. B Cells generate lgA
+-   [[Immunoglobulin A]] - an antibody that is secreted out of the cell layer to bind bad bacteria and renders them useless so they just pass.
+-   [[Mucus]]
+-   [[Oral tolerance]]
+-   **[[Short chain fatty acids]] (SCFA):** Bacterial fermentation byproducts produced from [[resistant starch]] play an integral role in instestinal homeostasis and previnting disease. Can be used directly by mitochondria as fuel as ATP (to proliferate and do the things they need to)
+-   **[[Resistant Starch]]:** the starch that is left over (not processed) by [[amylase]] and reach the colon
+-   **[[Butyrate]]:** SCFA that is used as a fuel source for the gut [[epithelium]], increasing barrier integrity and limiting “leaky gut”. Induce the production of antimicrobial peptides which kill bacteria we don&rsquo;t want.
+    <https://share.getcloudapp.com/Wnur5jJ4>
+-   **[[cytokine]]:** chemical messengers that float from one cell to another
+-   **T Cells:** create Tregs and inhibit the production of th effectors
+-   [[Regulatory T cell]] - called Tregs
+-   **[[Dysbiosis]]:** The imbalance of bacteria in your gut. either too much of certain bacteria or too few of others
+-   **[[Leaky gut]]:** As a result, bacteria and bacterial products translocate through the mucus layer into the gut tissue, causing substantial inflammation. (Your gut is letting too much of your poo into your body)
+-   **[[tolerogenic environment]]:** an environment in your gut where you gut is in a low inflamation state where an active process of preventing an immune response occurs
+-   **tolerance:** the active process of shutting down immune responses against non–pathogenic antigens
 
