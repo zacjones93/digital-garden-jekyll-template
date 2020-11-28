@@ -47,5 +47,6 @@ If you want to take your understanding of human health to the next level, this i
 ## Week 06
  [[Modulating Gut Health and the Microbiome]]
 ## Week 07
- Working Through Gut Health Issues with Diet and Lifestyle Changes
+
+ [[Gut Inflammation & Dysbiosis / SIBO & IBD]]
 

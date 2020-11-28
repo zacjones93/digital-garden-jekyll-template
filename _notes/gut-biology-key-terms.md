@@ -15,7 +15,7 @@ title: Gut Biology Key Terms
 3.  [Energy Balance and Obesity](#org6e5eaa2)
 4.  [Brain Connection](#org06feb45)
 5.  [Modulating for health](#org25e1dc5)
-
+6.  [Gut Inflamation](#orgc8732b7)
 
 <a id="org15018aa"></a>
 
@@ -173,6 +173,21 @@ Insulin resistance
 -   [[Inulin]]
 -   [[Artificial sweeteners]]
 -   [[Emulsifiers]]
+
+<a id="orgc8732b7"></a>
+
+# Gut Inflamation
+
+- [[SIBO]] :: small intestinal bacterial outgrowth
+- [[IBD]] :: irritable bowel disease .. class of gut inflammatory diseases typically requiring medical treatment. Alterations in dietary and lifestyle approaches can be made to support management of the disease
+-  [[Crohn]]&rsquo;s
+-  [[Ulcerative Colitis]]
+- [[FODMAPs]]
+- [[Zinc carnosine]]
+- [[Apple cider vinegar]]
+- [[Berberine]]
+- [[Oregano oil]]
+- [[VSL]]#3
 
 
 
