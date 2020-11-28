@@ -13,7 +13,7 @@ title: Gut Biology Key Terms
     5.  [Microbiome](#orgd9c7a76)
 2.  [Immune Connection](#org4648f47)
 3.  [Energy Balance and Obesity](#org6e5eaa2)
-
+4.  [Brain Connection](#org06feb45)
 
 
 <a id="org15018aa"></a>
@@ -138,6 +138,23 @@ Insulin resistance
 -   **[[UCP1]]:** uncoupling protein that ineficiently takes lipids and generates heat
 -   [[mitochondria]]
 -   **[[Akkermansia muciniphilia]]:** A bacteria in the gut shown to reduce many triggers for obesity&#x2026; reduced insulin resistance, glucose dysregulation, steatosis, and gut permeability
+
+<a id="org06feb45"></a>
+
+# Brain Connection
+
+-   **[[Enteric nervous system]:** connection of gut to nervous system. Makes your gut considered your second brain
+-   [[Major depressive disorder]
+-   **[[HPA axis]]:** Hypothalmus-Pituitary-Adrenal axis &#x2013; best none for handling stress response
+-   **[[ACTH]]:** adrenocorticotropic hormone
+-   [[Neurotransmitters]]
+-   [[Tryptophan]]
+-   [[Serotonin]]
+-   [[Cytokine]]
+-   [[Leaky gut]]
+-   [[Corticotropin]] releasing hormone
+-   [[Cortisol]]
+-   [[Vagus nerve]]
 
 
 
