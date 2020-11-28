@@ -41,7 +41,7 @@ If you want to take your understanding of human health to the next level, this i
 ## Week 03
   [[The microbiome / Immune Connection]]
 ## Week 04
- The Microbiome and Metabolism / Obesity
+ [[The Microbiome / Energy Balance and Obesity]]
 ## Week 05
  The Microbiome and Mental Health
 ## Week 06

@@ -11,7 +11,8 @@ title: Gut Biology Key Terms
     3.  [Simple sugars](#org4894835)
     4.  [Enzymes](#org1e7250c)
     5.  [Microbiome](#orgd9c7a76)
-1.  [Immune Connection](#org4648f47)
+2.  [Immune Connection](#org4648f47)
+3.  [Energy Balance and Obesity](#org6e5eaa2)
 
 
 
@@ -122,4 +123,22 @@ Insulin resistance
 -   **[[Leaky gut]]:** As a result, bacteria and bacterial products translocate through the mucus layer into the gut tissue, causing substantial inflammation. (Your gut is letting too much of your poo into your body)
 -   **[[tolerogenic environment]]:** an environment in your gut where you gut is in a low inflamation state where an active process of preventing an immune response occurs
 -   **tolerance:** the active process of shutting down immune responses against non–pathogenic antigens
+
+<a id="org6e5eaa2"></a>
+
+# Energy Balance and Obesity
+
+-   [[Firmicutes]] / [[Bacteroidetes]] ratio
+-   Th1, Th2, Tregs, CD8 [[T cell]]s
+-   M1 and m2 [[macrophages]]
+-   [[leaky gut]]
+-   **[[LPS]]:** expressed by bacteria, is a powerful inflammatory factor that triggers obesity, insulin resistance, and diabetes
+-   **[[White fat]]:** Stores energy
+-   **[[Brown fat]]:** lots of mitochondria that are energy burning and generate heat. Takes lipid droplets ineficiently to generate heat
+-   **[[UCP1]]:** uncoupling protein that ineficiently takes lipids and generates heat
+-   [[mitochondria]]
+-   **[[Akkermansia muciniphilia]]:** A bacteria in the gut shown to reduce many triggers for obesity&#x2026; reduced insulin resistance, glucose dysregulation, steatosis, and gut permeability
+
+
+
 
