@@ -45,7 +45,7 @@ If you want to take your understanding of human health to the next level, this i
 ## Week 05
  [[The Microbiome and Mental Health]]
 ## Week 06
- Modulating Gut Health and the Microbiome
+ [[Modulating Gut Health and the Microbiome]]
 ## Week 07
  Working Through Gut Health Issues with Diet and Lifestyle Changes
 

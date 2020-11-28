@@ -14,6 +14,7 @@ title: Gut Biology Key Terms
 2.  [Immune Connection](#org4648f47)
 3.  [Energy Balance and Obesity](#org6e5eaa2)
 4.  [Brain Connection](#org06feb45)
+5.  [Modulating for health](#org25e1dc5)
 
 
 <a id="org15018aa"></a>
@@ -155,6 +156,23 @@ Insulin resistance
 -   [[Corticotropin]] releasing hormone
 -   [[Cortisol]]
 -   [[Vagus nerve]]
+
+<a id="org25e1dc5"></a>
+
+# Modulating for health
+
+-   [[Calorie restriction]]
+-   [[Ketogenic diet]]
+-   [[Intermittent fasting]]
+-   [[Gluten free diet]]
+-   **[[FODMAPs]]:** Fermentable oligo-, di-, mono-saccharides and polyols, short chains of sugars
+-   [[Jet lag]]
+-   [[Probiotics]]
+-   [[VSL]] #3
+-   [[Prebiotic]]
+-   [[Inulin]]
+-   [[Artificial sweeteners]]
+-   [[Emulsifiers]]
 
 
 
