@@ -23,30 +23,12 @@ In this course, we are going to teach you everything from the basic biology of h
 If you want to take your understanding of human health to the next level, this is the course for you.
 
 
-- Week 1 - Intro to the Gastrointestinal System
-- Week 2 - The Microbiome | What is it and what does it do?
-- Week 3 - The Microbiome | Immune Connection
-- Week 4 - The Microbiome | Energy Balance and Obesity
-- Week 5 - The Microbiome | Brain Connection
-- Week 6 - Modulating the Microbiome for Health
-- Week 7- Nutrition and Lifestyle Adjustments for Gut Inflammation
-  
-## Week 01 -- Anatomy and Physiology
-
-- 📝 [[Anatomy and Physiology of the GI Tract and Accessory Organs]]
-- ❓ [[Anatomy and Physiology Questions]]
-
-## Week 02 
- [[Introduction to the Microbiome]]
-## Week 03
-  [[The microbiome / Immune Connection]]
-## Week 04
- [[The Microbiome / Energy Balance and Obesity]]
-## Week 05
- [[The Microbiome and Mental Health]]
-## Week 06
- [[Modulating Gut Health and the Microbiome]]
-## Week 07
-
- [[Gut Inflammation & Dysbiosis / SIBO & IBD]]
-
+- **Week 1** - Intro to the Gastrointestinal System
+  - 📝 [[Anatomy and Physiology of the GI Tract and Accessory Organs]]
+  - ❓ [[Anatomy and Physiology Questions]] 
+- **Week 2** - [[Introduction to the Microbiome]]
+- **Week 3** - [[The microbiome / Immune Connection]]
+- **Week 4** - [[The Microbiome / Energy Balance and Obesity]]
+- **Week 5** - [[The Microbiome and Mental Health]]
+- **Week 6** - [[Modulating Gut Health and the Microbiome]]
+- **Week 7** - [[Gut Inflammation & Dysbiosis / SIBO & IBD]]
