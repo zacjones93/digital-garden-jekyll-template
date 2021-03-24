@@ -1,2 +1,0 @@
-# CrossFit L1
-
