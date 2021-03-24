@@ -1,0 +1,4 @@
+# another-note.md
+
+
+boom 💥
