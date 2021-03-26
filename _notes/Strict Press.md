@@ -1,12 +1,12 @@
 ---
-title: (Strict) Press
----
+title: Strict Press
+-
 
 Full grip on the bar, elbows down
 
 Head back, 
 
-- PoP
+- [[PoP]]
 	- Neutral spine
 		- extended spine
 			- Pull the ribs down
