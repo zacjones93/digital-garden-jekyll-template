@@ -4,7 +4,7 @@ title: CrossFit
 
 CrossFit is constantly varied, function movement executed at high intensity with the end goal of increasing someones fitness and by doing so allowing individuals to maintain health throughout their life.
 
-Fitness is measured and defined as the work capacity of an individual across time and modal domain while health is defined as fitness throughout your life.
+Fitness is measured and defined as the work capacity of an individual across time and modal domains while health is defined as fitness spanning your life time.
 
 
 Read more about it in my [[CrossFit L1]] notes.
