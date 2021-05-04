@@ -13,7 +13,7 @@ This site is a collection of my thoughts that are organized into Notes. If you'r
   Notes that I'm stoked about: 
   <ul>
     <li> ƛ [[ClojureFam]]</li>
-    <li> 🍎 [[Understanding By Design]]</li>
+    <li> 💽 [[Design]]</li>
     <li> 🧑‍💻 [[egghead]]</li>
     <li> 🏋️‍♂️ [[crossfit]]</li>
   </ul> 
