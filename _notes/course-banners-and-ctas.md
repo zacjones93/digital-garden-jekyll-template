@@ -5,6 +5,10 @@ title: Course banners and CTAs
 
 ## [[egghead]] course banners
 
+Advanced TypeScript Fundamentals uses [Aerial Perspective](https://en.wikipedia.org/wiki/Aerial_perspective) to highlight the foreground of the banner while providing an interesting background.
+
+![](./CTA-advanced-typescript-fundamentals@2x.png)
+
 ![](./CTA-build-modern-layouts-with-css-grid@2x.png)
 
 ![](./CTA-background-digital-garden-cli-with-rust@2x.png)
