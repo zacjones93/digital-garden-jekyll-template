@@ -1,5 +1,6 @@
 ---
 title: Hang Power Clean
+image: ./low-hang-clean.JPG
 ---
 
 ## Intro
