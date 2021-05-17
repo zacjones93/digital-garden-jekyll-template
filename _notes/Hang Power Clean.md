@@ -34,11 +34,6 @@ image: ./low-hang-clean.JPG
 - Feet shuffle out into a catching stance
 - hip crease stays above parallel
 ## Progression
-- Look at set up / work low and high positions
-  - check
-    - vertical shins
-    - shoulders over bar
-    - back tight / lats tight
 - bergener warm up
   - high-hang dip and drive
     - check extension
@@ -49,6 +44,12 @@ image: ./low-hang-clean.JPG
       - pull, extend, pull, turn over
     - check extension
   - high-hang power clean
+- work low and high positions
+- Low hang pause singles
+  - check
+    - vertical shins
+    - shoulders over bar
+    - back tight / lats tight
 - Low hang power clean singles
   - reset every time
   - check positioning
