@@ -55,3 +55,7 @@ image: ./low-hang-clean.JPG
   - check positioning
 - Low hang power clean sets
 
+
+---
+
+- Eval: [[2020-05-15 Low Hang Power Clean]]
