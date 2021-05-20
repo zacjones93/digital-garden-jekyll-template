@@ -32,9 +32,10 @@ I have recently started my coaching journey after 8 years of being an athlete wi
 
 A foundational piece to coaching within CrossFit (and in general!) is the progressions that you take people through to warm up as well as build the skill and body awareness necessary to perform movements with excellence.
 
-I will be posting the progressions that I make here:
+I will be posting the progressions and metcon breakdowns that I make here:
 
 - [[Progressions]]
+- [[Metcons]]
 
 ### Coaches Practice Evaluations
 
