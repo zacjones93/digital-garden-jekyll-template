@@ -25,6 +25,7 @@ AMRAP 10
   - The burpee box jump is the same height
 - Rx+
   - 9 sHSPU instead of 6
+
 ## Strategy
 - The idea for this workout is to do the largest sets of HSPU that you can maintain for 10 minutes
 - If you find yourself doing more than 3 sets in a round, you should scale down
