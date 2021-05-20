@@ -1,5 +1,6 @@
 ---
 title: Metcons
+image: ./squat.JPG
 ---
 
 ## AMRAP
