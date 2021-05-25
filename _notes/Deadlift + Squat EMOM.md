@@ -1,5 +1,6 @@
 ---
 title: Deadlift + Squat EMOM
+image: ./deadlift.jpg
 ---
 
 ```
