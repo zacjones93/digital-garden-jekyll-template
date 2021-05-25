@@ -17,7 +17,7 @@ Every 1:30 for 4 Rounds
 - Also! Deadlifts are no longer dead stop. You can go touch-and-go with them as this is a lot of work
 - We'll work through a deadlift progression to get ya'll warmed up for the movement and then do a review of backsquat after with a set of 10 before you start loading your bars
 ## Points of Performance
-[[Deadlift]]
+### [[Deadlift]]
 - In the set up
   - feet under your hips
   - You want weight in the middle of your foot with your heel down 
@@ -29,7 +29,7 @@ Every 1:30 for 4 Rounds
   - Gaze ~4 feet ahead of you with a neutral neck
 - As you initiate the movement you want your hips and shoulders to rise at the same time
 - When the bar is above your knee, you'll bring your hips to the bar keeping the bar path straight 
-[[Back Squat]]
+### [[Back Squat]]
 - In the set up
   - feet shoulder width apart slightly pointed out
   - elbows pulled back and down
@@ -43,12 +43,14 @@ Every 1:30 for 4 Rounds
 - Finish the rep with your hip crease below your knees
 ## Progression (for deadlift)
 - We'll work on some elevator drills and then the full movement
+
 **Elevator Drills** 
 - This drill we will have you working on your positions during the deadlift
 - When I say knees -- you'll bring the bar to just above your knee making sure you're in the correct position
 - When I say shins -- you'll bring the bar down to your starting position
 - When I say hips -- you'll extend all the way to the end of the deadlift
 - We will work through these positions a few times to warm you up
+
 **Complete a set together**
 - We had deadlifts in the warm up but we can do one more set to make sure y'all are ready for some weight
 
