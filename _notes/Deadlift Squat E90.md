@@ -1,5 +1,5 @@
 ---
-title: Deadlift + Squat EMOM
+title: Deadlift Squat E90
 image: ./deadlift.jpg
 ---
 
