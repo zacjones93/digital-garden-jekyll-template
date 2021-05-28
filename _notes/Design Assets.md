@@ -1,6 +1,9 @@
 ---
 title: Design Assets
+tags: design
 ---
+
+[[Design]]
 
 
 

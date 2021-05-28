@@ -48,7 +48,9 @@ layout: default
 
 
 {% if page.tags contains "CrossFit" %}
- {% include crossfit_notes_graph.html %}
+  {% include crossfit_notes_graph.html %}
+{% elsif page.tags contains "design" %}
+  {% include design_notes_graph.html %}
 {% else %}
- {% include notes_graph.html %}
+  {% include notes_graph.html %}
 {% endif %}

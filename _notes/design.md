@@ -1,6 +1,6 @@
 ---
 title: Design
-tags: design
+tags: [design]
 ---
 
 - [[Course banners and CTAs]]

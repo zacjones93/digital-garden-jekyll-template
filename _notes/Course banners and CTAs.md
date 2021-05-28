@@ -4,7 +4,7 @@ tags: design
 ---
 
 
-## [[egghead]] course banners
+## [[egghead]] course banner [[Design]]
 
 Advanced TypeScript Fundamentals uses [Aerial Perspective](https://en.wikipedia.org/wiki/Aerial_perspective) to highlight the foreground of the banner while providing an interesting background.
 

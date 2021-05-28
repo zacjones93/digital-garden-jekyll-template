@@ -1,3 +1,9 @@
+class Array
+  def find_dups
+      uniq.map {|v| (self - [v]).size < (self.size - 1) ? v : nil}.compact
+  end
+end
+
 # frozen_string_literal: true
 class BidirectionalLinksGenerator < Jekyll::Generator
   def generate(site)
@@ -5,6 +11,8 @@ class BidirectionalLinksGenerator < Jekyll::Generator
     graph_edges = []
     crossfit_graph_nodes = []
     crossfit_graph_edges = []
+    design_graph_nodes = []
+    design_graph_edges = []
 
     all_notes = site.collections['notes'].docs
     all_pages = site.pages
@@ -36,14 +44,6 @@ class BidirectionalLinksGenerator < Jekyll::Generator
         label: current_note.data['title'],
       } unless current_note.path.include?('_notes/index.html')
 
-      if current_note.data['tags'].include?("CrossFit")
-        crossfit_graph_nodes << {
-          id: note_id_from_note(current_note),
-          path: current_note.url,
-          label: current_note.data['title'],
-        } unless current_note.path.include?('_notes/index.html')
-      end
-
 			# Edges: Jekyll
       current_note.data['backlinks'] = notes_linking_to_current_note
 
@@ -55,26 +55,60 @@ class BidirectionalLinksGenerator < Jekyll::Generator
         }
 
         if current_note.data['tags'].include?("CrossFit")
+          crossfit_graph_nodes << {
+            id: note_id_from_note(current_note),
+            path: current_note.url,
+            label: current_note.data['title'],
+          } unless current_note.path.include?('_notes/index.html')
+        end
+
+        if current_note.data['tags'].include?("CrossFit")
           notes_linking_to_current_note.each do |n|
             if n.data['tags'].include?("CrossFit")
             crossfit_graph_edges << {
               source: note_id_from_note(n),
               target: note_id_from_note(current_note),
             }
+            end
           end
+        end
+
+        if current_note.data['tags'].include?("design")
+          design_graph_nodes << {
+            id: note_id_from_note(current_note),
+            path: current_note.url,
+            label: current_note.data['title'],
+          } unless current_note.path.include?('_notes/index.html')
+        end
+
+        if current_note.data['tags'].include?("design")
+          notes_linking_to_current_note.each do |n|
+            if n.data['tags'].include?("design")
+              design_graph_edges << {
+              source: note_id_from_note(n),
+              target: note_id_from_note(current_note),
+            }
+            end
           end
         end
       end
     end
 
+
+
     File.write('_includes/notes_graph.json', JSON.dump({
-      edges: graph_edges,
+      edges: graph_edges.uniq!,
       nodes: graph_nodes,
     }))
 
     File.write('_includes/crossfit_notes_graph.json', JSON.dump({
-      edges: crossfit_graph_edges,
-      nodes: crossfit_graph_nodes,
+      edges: crossfit_graph_edges.uniq!,
+      nodes: crossfit_graph_nodes.uniq!,
+    }))
+
+    File.write('_includes/design_notes_graph.json', JSON.dump({
+      edges: design_graph_edges.uniq!,
+      nodes: design_graph_nodes.uniq!,
     }))
   end
 
