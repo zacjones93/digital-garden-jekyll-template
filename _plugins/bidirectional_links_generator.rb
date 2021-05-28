@@ -3,6 +3,8 @@ class BidirectionalLinksGenerator < Jekyll::Generator
   def generate(site)
     graph_nodes = []
     graph_edges = []
+    crossfit_graph_nodes = []
+    crossfit_graph_edges = []
 
     all_notes = site.collections['notes'].docs
     all_pages = site.pages
@@ -34,6 +36,14 @@ class BidirectionalLinksGenerator < Jekyll::Generator
         label: current_note.data['title'],
       } unless current_note.path.include?('_notes/index.html')
 
+      if current_note.data['tags'].include?("CrossFit")
+        crossfit_graph_nodes << {
+          id: note_id_from_note(current_note),
+          path: current_note.url,
+          label: current_note.data['title'],
+        } unless current_note.path.include?('_notes/index.html')
+      end
+
 			# Edges: Jekyll
       current_note.data['backlinks'] = notes_linking_to_current_note
 
@@ -43,6 +53,17 @@ class BidirectionalLinksGenerator < Jekyll::Generator
           source: note_id_from_note(n),
           target: note_id_from_note(current_note),
         }
+
+        if current_note.data['tags'].include?("CrossFit")
+          notes_linking_to_current_note.each do |n|
+            if n.data['tags'].include?("CrossFit")
+            crossfit_graph_edges << {
+              source: note_id_from_note(n),
+              target: note_id_from_note(current_note),
+            }
+          end
+          end
+        end
       end
     end
 
@@ -50,9 +71,14 @@ class BidirectionalLinksGenerator < Jekyll::Generator
       edges: graph_edges,
       nodes: graph_nodes,
     }))
+
+    File.write('_includes/crossfit_notes_graph.json', JSON.dump({
+      edges: crossfit_graph_edges,
+      nodes: crossfit_graph_nodes,
+    }))
   end
 
   def note_id_from_note(note)
-    note.data['title'].to_i(36).to_s
+    note.data['title'].delete(' ').delete('-').to_i(36).to_s
   end
 end

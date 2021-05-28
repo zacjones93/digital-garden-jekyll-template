@@ -1,5 +1,6 @@
 ---
 title: Course banners and CTAs
+tags: design
 ---
 
 
