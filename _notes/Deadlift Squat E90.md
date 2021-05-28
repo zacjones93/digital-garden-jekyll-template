@@ -1,7 +1,10 @@
 ---
 title: Deadlift Squat E90
 image: ./deadlift.jpg
+tags: CrossFit
 ---
+
+Thoughts and reflections on how this went: [[Deadlift Squat E90 feedback]]
 
 ```
 Every 1:30 for 4 Rounds
