@@ -1,6 +1,7 @@
 ---
 title: Metcons
 image: ./squat.JPG
+tags: CrossFit
 ---
 
 ## AMRAP

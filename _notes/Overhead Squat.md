@@ -1,5 +1,6 @@
 ---
 title: Overhead Squat
+tags: CrossFit
 ---
 
 Find a pass through grip that’s a little sticky then go a little wider

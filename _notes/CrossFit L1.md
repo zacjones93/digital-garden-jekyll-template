@@ -1,5 +1,6 @@
 ---
 title: CrossFit L1
+tags: CrossFit
 ---
 
 [[CrossFit]] L1
@@ -342,7 +343,7 @@ Actively program rest
 
 ## [[Movements]]
 
-### Common themes or [[pop]]
+### Common themes or [[PoP]]
 - midline stability
 - Posterior chain engagement
 - Core to etremity movement patterns

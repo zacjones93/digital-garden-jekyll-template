@@ -1,5 +1,6 @@
 ---
 title: 2020-03-27 Push Press
+tags: CrossFit
 ---
 
 Evaluator: [[Tucker Jones]]

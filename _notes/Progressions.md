@@ -1,5 +1,6 @@
 ---
 title: Progressions
+tags: CrossFit
 ---
 
 

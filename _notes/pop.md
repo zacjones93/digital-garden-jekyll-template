@@ -1,5 +1,6 @@
 ---
 title: PoP
+tags: CrossFit
 ---
 
 aka: Points of Performance

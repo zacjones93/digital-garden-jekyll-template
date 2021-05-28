@@ -1,5 +1,6 @@
 ---
 title: Air Squat
+tags: CrossFit
 ---
 
 - Set up

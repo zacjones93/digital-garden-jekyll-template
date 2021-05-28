@@ -1,5 +1,6 @@
 ---
 title: Deadlift
+tags: CrossFit
 ---
 
 - Shoulders over bar at set up

@@ -1,5 +1,6 @@
 ---
 title: medball clean
+tags: CrossFit
 ---
 
 - Set up

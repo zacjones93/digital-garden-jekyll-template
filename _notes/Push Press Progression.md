@@ -1,5 +1,6 @@
 ---
 title: Push Press Progression
+tags: CrossFit
 ---
 
 Below is documented a [[Push Press]] progression I would take people through aiming to use wording similar to what I would actually say.

@@ -1,5 +1,6 @@
 ---
 title: Push Jerk
+tags: CrossFit
 ---
 
 30% jump from push press

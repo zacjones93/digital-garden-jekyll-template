@@ -1,5 +1,6 @@
 ---
 title: Push Movements
+tags: CrossFit
 ---
 
 - [[Strict Press]]

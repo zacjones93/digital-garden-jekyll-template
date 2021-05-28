@@ -1,5 +1,6 @@
 ---
 title: Sumo Deadlift highpull
+tags: CrossFit
 ---
 
 - setup

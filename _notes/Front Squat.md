@@ -1,5 +1,6 @@
 ---
 title: Front Squat
+tags: CrossFit
 ---
 
 Upper arm is parallel with the ground

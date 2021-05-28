@@ -1,6 +1,7 @@
 ---
 title: Strict Press
--
+tags: CrossFit
+---
 
 Full grip on the bar, elbows down
 

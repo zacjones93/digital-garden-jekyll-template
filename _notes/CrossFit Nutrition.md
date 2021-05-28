@@ -1,5 +1,6 @@
 ---
 title: CrossFit Nutrition
+tags: CrossFit
 ---
 
 Pyramid

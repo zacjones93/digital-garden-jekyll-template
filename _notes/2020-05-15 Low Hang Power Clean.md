@@ -1,5 +1,6 @@
 ---
 title: 2020-05-15 Low Hang Power Clean
+tags: CrossFit
 ---
 
 Evaluator: [[Tucker Jones]]

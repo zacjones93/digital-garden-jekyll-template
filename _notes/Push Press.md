@@ -1,5 +1,6 @@
 ---
 title: Push Press
+tags: CrossFit
 ---
 
 30% jump from strict press
