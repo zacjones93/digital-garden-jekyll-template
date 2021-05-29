@@ -13,6 +13,8 @@ class BidirectionalLinksGenerator < Jekyll::Generator
     crossfit_graph_edges = []
     design_graph_nodes = []
     design_graph_edges = []
+    nutrition_graph_nodes = []
+    nutrition_graph_edges = []
 
     all_notes = site.collections['notes'].docs
     all_pages = site.pages
@@ -91,6 +93,26 @@ class BidirectionalLinksGenerator < Jekyll::Generator
             end
           end
         end
+
+
+        if current_note.data['tags'].include?("nutrition")
+          nutrition_graph_nodes << {
+            id: note_id_from_note(current_note),
+            path: current_note.url,
+            label: current_note.data['title'],
+          } unless current_note.path.include?('_notes/index.html')
+        end
+
+        if current_note.data['tags'].include?("nutrition")
+          notes_linking_to_current_note.each do |n|
+            if n.data['tags'].include?("nutrition")
+              nutrition_graph_edges << {
+              source: note_id_from_note(n),
+              target: note_id_from_note(current_note),
+            }
+            end
+          end
+        end
       end
     end
 
@@ -110,7 +132,14 @@ class BidirectionalLinksGenerator < Jekyll::Generator
       edges: design_graph_edges.uniq!,
       nodes: design_graph_nodes.uniq!,
     }))
+
+      File.write('_includes/nutrition_notes_graph.json', JSON.dump({
+      edges: nutrition_graph_edges.uniq!,
+      nodes: nutrition_graph_nodes.uniq!,
+    }))
+
   end
+
 
   def note_id_from_note(note)
     note.data['title'].delete(' ').delete('-').to_i(36).to_s
