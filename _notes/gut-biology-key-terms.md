@@ -1,6 +1,6 @@
 ---
-title: Gut Biology Key Termstags: nutrition
-
+title: Gut Biology Key Terms
+tags: nutrition
 ---
 
 
