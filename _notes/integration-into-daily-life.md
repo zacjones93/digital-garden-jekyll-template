@@ -1,5 +1,6 @@
 ---
 title: Integration into Daily Life
+tags: nutrition
 ---
 
 ## Intro

@@ -1,5 +1,6 @@
 ---
 title: Vitamins
+tags: nutrition
 ---
 
 [[Vitamin A]]

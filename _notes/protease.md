@@ -1,3 +1,4 @@
 ---
 title: Protease
+tags: nutrition
 ---

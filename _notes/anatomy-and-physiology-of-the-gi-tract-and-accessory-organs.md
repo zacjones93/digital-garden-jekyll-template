@@ -1,5 +1,6 @@
 ---
 title: Anatomy and Physiology of the GI Tract and Accessory Organs
+tags: nutrition
 ---
 
 ## Summary
@@ -15,11 +16,11 @@ title: Anatomy and Physiology of the GI Tract and Accessory Organs
 - [Outcomes:](#outcomes)
 - [Introduction to the Gastrointestinal System](#introduction-to-the-gastrointestinal-system)
   - [Key points](#key-points)
-  - [System 1 &#x2013; Gastrointestinal tract aka [[Alimentary Canal]]](#system-1-x2013-gastrointestinal-tract-aka-alimentary-canal)
+  - [System 1 &#x2013; Gastrointestinal tract aka [[Alimentary Canal]]](#system-1--gastrointestinal-tract-aka-alimentary-canal)
     - [General](#general)
     - [Purpose](#purpose)
     - [Structures](#structures)
-  - [System 2 &#x2013; Accessory digestive organs](#system-2-x2013-accessory-digestive-organs)
+  - [System 2 &#x2013; Accessory digestive organs](#system-2--accessory-digestive-organs)
     - [[[Pancreas]]](#pancreas)
     - [[[Liver]] :: - Produces [[Bile]], which is required for the emulsification & absorption of lipids in the small intestine](#liver----produces-bile-which-is-required-for-the-emulsification--absorption-of-lipids-in-the-small-intestine)
     - [[[Gallbladder]] :: Stores & concentrates [[Bile]] & releases it into the small intestine](#gallbladder--stores--concentrates-bile--releases-it-into-the-small-intestine)

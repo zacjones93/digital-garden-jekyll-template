@@ -1,2 +1,5 @@
-# Manganese
+---
+title: Manganese
+tags: nutrition
+---
 

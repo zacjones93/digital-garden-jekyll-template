@@ -1,2 +1,5 @@
-# The Citric Acid Cycle
+---
+title: The Citric Acid Cycle
+tags: nutrition
+---
 

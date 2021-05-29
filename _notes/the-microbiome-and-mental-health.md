@@ -1,23 +1,25 @@
 ---
 title: The Microbiome and Mental Health
+tags: nutrition
 ---
 
 # Table of Contents
 
-1.  [Key Takeaways](#org2ed6b86)
-2.  [Gut Biology Terms](#org1b35b4f)
-3.  [Gut is your Second Brain](#orgfc6f678)
-4.  [Why so important?](#orgd477672)
-5.  [Gut Brain Immune Connection](#org32a2433)
-    1.  [1) Inflammation](#org9947ccc)
-6.  [2) The HPA axis &#x2013; hypothalmus-pituitary-adrenal gland](#orgca08d96)
-7.  [3) Short chain fatty acids SCFA](#org6cd1aab)
-    1.  [Butyrate has shown preclinical (mice) beneficial effects for:](#orgb50f6c0)
-8.  [4) Microbial production of neurotransmitters](#orgb42c02e)
-9.  [Vagus Nerve](#org6687544)
-10. [5) Tryptophan and Serotonin biology](#org5096782)
-11. [Summary](#org7e80216)
-12. [Supplimentary Video](#org8ffa465)
+- [Table of Contents](#table-of-contents)
+- [Key Takeaways](#key-takeaways)
+- [[[Gut Biology Key Terms]]](#gut-biology-key-terms)
+- [Gut is your Second Brain](#gut-is-your-second-brain)
+- [Why so important?](#why-so-important)
+- [Gut Brain Immune Connection](#gut-brain-immune-connection)
+  - [1) Inflammation](#1-inflammation)
+- [2) The [[HPA axis]] &#x2013; hypothalmus-pituitary-adrenal gland](#2-the-hpa-axis--hypothalmus-pituitary-adrenal-gland)
+- [3) Short chain fatty acids [Short Chain Fatty Acids]](#3-short-chain-fatty-acids-short-chain-fatty-acids)
+  - [Butyrate has shown preclinical (mice) beneficial effects for:](#butyrate-has-shown-preclinical-mice-beneficial-effects-for)
+- [4) Microbial production of [[neurotransmitters]]](#4-microbial-production-of-neurotransmitters)
+- [[[Vagus Nerve]]](#vagus-nerve)
+- [5) [[Tryptophan]] and [[Serotonin]] biology](#5-tryptophan-and-serotonin-biology)
+- [Summary](#summary)
+- [Supplimentary Video](#supplimentary-video)
 
 We will explore five major ways in which the gut is connected to the brain:
 

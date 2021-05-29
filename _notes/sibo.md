@@ -1,3 +1,4 @@
 ---
 title: SIBO
+tags: nutrition
 ---

@@ -1,3 +1,4 @@
 ---
 title: Stomach
+tags: nutrition
 ---

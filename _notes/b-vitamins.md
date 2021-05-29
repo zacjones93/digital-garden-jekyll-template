@@ -1,5 +1,6 @@
 ---
 title: B Vitamins
+tags: nutrition
 ---
 
 B1 [[Thiamin]]

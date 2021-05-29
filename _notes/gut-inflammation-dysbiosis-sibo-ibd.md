@@ -1,28 +1,30 @@
 ---
 title: Gut Inflammation & Dysbiosis / SIBO & IBD
+tags: nutrition
 ---
 
 
 # Table of Contents
 
-1.  [Key Takeaways](#org5963947)
-2.  [SIBO](#org6d36ebc)
-    1.  [Common symptoms include:](#org16b6ced)
-    2.  [SIBO is more frequently associated with:](#org9b08afb)
-    3.  [Causes?](#org6207283)
-    4.  [Diagnose SIBO](#orge2cddbc)
-    5.  [Working to Reduce SIBO-](#org8ec3fd1)
-        1.  [Diet](#org0526857)
-        2.  [Supplements](#orgd8420b3)
-        3.  [Additional Lifestyle Suggestions](#org3afb2b0)
-3.  [IBD](#org0d7f055)
-    1.  [Causes](#orge85e7e1)
-    2.  [REMINDER!!!](#orgf7017d4)
-    3.  [How to Work Around IBD](#org35c9cb6)
-    4.  [Trying To Heal With Nutrition And Supplements](#org6b15da4)
-    5.  [Potato Starch Guidelines](#orgafa3132)
-4.  [Take Home Points](#org6eaa0d9)
-5.  [Practical Application](#org30b3171)
+- [Table of Contents](#table-of-contents)
+- [Key Takeaways](#key-takeaways)
+- [[[SIBO]]](#sibo)
+  - [Common symptoms include:](#common-symptoms-include)
+  - [SIBO is more frequently associated with:](#sibo-is-more-frequently-associated-with)
+  - [Causes?](#causes)
+  - [Diagnose SIBO](#diagnose-sibo)
+  - [Working to Reduce SIBO-](#working-to-reduce-sibo-)
+    - [Diet](#diet)
+    - [Supplements](#supplements)
+    - [Additional Lifestyle Suggestions](#additional-lifestyle-suggestions)
+- [[[IBD]]](#ibd)
+  - [Causes](#causes-1)
+  - [REMINDER!!!](#reminder)
+  - [How to Work Around [[IBD]]](#how-to-work-around-ibd)
+  - [Trying To Heal With Nutrition And Supplements](#trying-to-heal-with-nutrition-and-supplements)
+  - [Potato Starch Guidelines](#potato-starch-guidelines)
+- [Take Home Points](#take-home-points)
+- [Practical Application](#practical-application)
 
 
 

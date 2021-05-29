@@ -1,3 +1,4 @@
 ---
 title: Inulin
+tags: nutrition
 ---

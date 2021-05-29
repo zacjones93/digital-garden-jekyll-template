@@ -1,31 +1,33 @@
 ---
 title: The Microbiome / Immune Connection
+tags: nutrition
 ---
 
 
 # Table of Contents
 
-1.  [Intro](#org8ea92d5)
-2.  [Key understandings](#orgc74e6c0)
-3.  [Key Terms](#orgf11bb20)
-4.  [Lecture](#org0982e01)
-    1.  [How the Immune System &rsquo;sees&rsquo; bacteria](#org50d3066)
-    2.  [Microbiome-immune drives formation of the immune system](#orgb7542c0)
-    3.  [Microbiome induces protective mucus production](#orgec1198c)
-    4.  [The GI Immune System is a Tolerogenic Environment](#orgb693afa)
-    5.  [Short chain fatty acids (SCFAs) and Microbiome Biology](#org3833e1c)
-    6.  [Generation of SCFAs](#org248fcb6)
-    7.  [Butyrate](#org9c2a63b)
-    8.  [Clinical Uses of Butyrate/Resistant Starch](#org0c6d64c)
-    9.  [What happens when the bacteria go bad?](#org10d21f6)
-    10. [causes of dysbiosis](#org187f12e)
-    11. [T cell dysfunction](#org248be9a)
-    12. [What is Leaky gut?](#orga7fd2e8)
-    13. [Rheumatoid Arthritis and the Microbiome](#orgae7e091)
-5.  [Inflammation from the immune system drives outgrowth of specific bateria](#org7ee8f74)
-    1.  [Summary](#orgbc8e385)
-    2.  [Lecture](#org8c47308)
-    3.  [What mechanism drives this?](#orgba740c7)
+- [Table of Contents](#table-of-contents)
+- [Intro](#intro)
+- [Key understandings](#key-understandings)
+- [[[Gut Biology Key Terms]]](#gut-biology-key-terms)
+- [Lecture](#lecture)
+  - [How the Immune System &rsquo;sees&rsquo; bacteria](#how-the-immune-system-sees-bacteria)
+  - [Microbiome-immune drives formation of the immune system](#microbiome-immune-drives-formation-of-the-immune-system)
+  - [Microbiome induces protective [[mucus]] production](#microbiome-induces-protective-mucus-production)
+  - [The GI Immune System is a Tolerogenic Environment](#the-gi-immune-system-is-a-tolerogenic-environment)
+  - [[[Short chain fatty acids]] (SCFAs) and Microbiome Biology](#short-chain-fatty-acids-scfas-and-microbiome-biology)
+  - [Generation of SCFAs](#generation-of-scfas)
+  - [Butyrate](#butyrate)
+  - [Clinical Uses of Butyrate/Resistant Starch](#clinical-uses-of-butyrateresistant-starch)
+  - [What happens when the bacteria go bad?](#what-happens-when-the-bacteria-go-bad)
+  - [causes of dysbiosis](#causes-of-dysbiosis)
+  - [T cell dysfunction](#t-cell-dysfunction)
+  - [What is [[Leaky gut]]?](#what-is-leaky-gut)
+  - [Rheumatoid Arthritis and the Microbiome](#rheumatoid-arthritis-and-the-microbiome)
+- [Inflammation from the immune system drives outgrowth of specific bateria](#inflammation-from-the-immune-system-drives-outgrowth-of-specific-bateria)
+  - [Summary](#summary)
+  - [Lecture](#lecture-1)
+  - [What mechanism drives this?](#what-mechanism-drives-this)
 
 
 

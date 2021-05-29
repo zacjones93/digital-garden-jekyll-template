@@ -1,2 +1,5 @@
-# magnesium
+---
+title: magnesium
+tags: nutrition
+---
 

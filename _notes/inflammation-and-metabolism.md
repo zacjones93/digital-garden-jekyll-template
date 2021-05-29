@@ -1,5 +1,6 @@
 ---
 title: Inflammation and Metabolism
+tags: nutrition
 ---
 
 ## Intro

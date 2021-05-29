@@ -1,2 +1,4 @@
-# Pentose Phosphate Pathway
-
+---
+title: Pentose Phosphate Pathway
+tags: nutrition
+---

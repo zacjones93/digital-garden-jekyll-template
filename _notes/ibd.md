@@ -1,3 +1,4 @@
 ---
 title: IBD
+tags: nutrition
 ---

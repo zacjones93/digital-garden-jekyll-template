@@ -1,5 +1,6 @@
 ---
 title: Maximizing Muscle Growth
+tags: nutrition
 ---
 
 ## Intro

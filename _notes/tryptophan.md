@@ -1,3 +1,4 @@
 ---
 title: Tryptophan
+tags: nutrition
 ---

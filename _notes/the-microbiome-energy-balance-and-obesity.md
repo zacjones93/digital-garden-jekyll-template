@@ -1,28 +1,30 @@
 ---
-title: The Microbiome / Energy Balance and Obesity
+title: The Microbiome / Energy Balance and obesity
+tags: nutrition
 ---
 
 
 # Table of Contents
 
-1.  [Key Takeaways](#org6ad4e7c)
-2.  [Gut Biology Terms](#org2bc8f38)
-3.  [Key Concepts](#orgc9f6487)
-4.  [Early Evidence of link between obesity and microbiome](#org19ac6d3)
-5.  [How does the microbiome cause or prevent obesity](#org8398f03)
-    1.  [Altered immune function](#org1d1fd52)
-    2.  [Altered adipose tissue biology](#org0484a2c)
-        1.  [Healthy](#org6c3883e)
-        2.  [Obese](#orgde0399f)
-    3.  [Altered breakdown and absorption of nutrients](#orgc00b52a)
-        1.  [Stong potential cause of preferential storage: Leaky gut](#org0bb5f73)
-    4.  [Diet Increases Inflammation, Inflammation Drives Obesity](#org82c20f9)
-    5.  [White fat vs Brown fat](#orgaad6f54)
-        1.  [Microbiom contributes to brown fat](#org22be451)
-    6.  [Bacteria contribute to macro breakdown and absorption](#org936ef13)
-    7.  [Bacteria associated with obesity and leanness](#org745392e)
-6.  [Summary](#orgac07dad)
-7.  [Akkermansia muciniphilia](#orgeda1b8e)
+- [Table of Contents](#table-of-contents)
+- [Key Takeaways](#key-takeaways)
+- [[[Gut Biology Key Terms]]](#gut-biology-key-terms)
+- [Key Concepts](#key-concepts)
+- [Early Evidence of link between obesity and microbiome](#early-evidence-of-link-between-obesity-and-microbiome)
+- [How does the microbiome cause or prevent obesity](#how-does-the-microbiome-cause-or-prevent-obesity)
+  - [Altered immune function](#altered-immune-function)
+  - [Altered adipose tissue biology](#altered-adipose-tissue-biology)
+    - [Healthy](#healthy)
+    - [Obese](#obese)
+  - [Altered breakdown and absorption of nutrients](#altered-breakdown-and-absorption-of-nutrients)
+    - [Stong potential cause of preferential storage: [[Leaky gut]]](#stong-potential-cause-of-preferential-storage-leaky-gut)
+  - [Diet Increases Inflammation, Inflammation Drives Obesity](#diet-increases-inflammation-inflammation-drives-obesity)
+  - [[[White fat]] vs [[Brown fat]]](#white-fat-vs-brown-fat)
+    - [Microbiom contributes to brown fat](#microbiom-contributes-to-brown-fat)
+  - [Bacteria contribute to macro breakdown and absorption](#bacteria-contribute-to-macro-breakdown-and-absorption)
+  - [Bacteria associated with obesity and leanness](#bacteria-associated-with-obesity-and-leanness)
+- [Summary](#summary)
+- [[[Akkermansia muciniphilia]]](#akkermansia-muciniphilia)
 
 
 

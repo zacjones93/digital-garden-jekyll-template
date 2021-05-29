@@ -1,2 +1,0 @@
-# Branched Chain Amino Acid
-

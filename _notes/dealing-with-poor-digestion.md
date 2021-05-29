@@ -1,5 +1,6 @@
 ---
 title: Dealing with Poor Digestion
+tags: nutrition
 ---
 
 # Table of Contents

@@ -1,19 +1,21 @@
 ---
 title: Introduction to the Microbiome
+tags: nutrition
 ---
 
 
 # Table of Contents
 
-- [Key take aways](#orgdfddf77)
--  [Summary](#orgd02b317)
--  [Microbiome](#orgea0fb82)
--  [Germ-free mice](#orgd31fe69)
--  [Microbiome - Early Life](#org90c25a4)
--  [Microbiome - Later life](#orgbf419ea)
-    1.  [Lifestyle impacts](#org7e61f97)
--  [Causation vs Correlation](#orgf0a412f)
-    1.  [Microbe induced malnutrition](#org2e72aa1)
+- [Table of Contents](#table-of-contents)
+- [Key take aways](#key-take-aways)
+- [Summary](#summary)
+- [[[Microbiome]]](#microbiome)
+- [Germ-free mice](#germ-free-mice)
+- [Microbiome - Early Life](#microbiome---early-life)
+- [Microbiome - Later life](#microbiome---later-life)
+  - [Lifestyle impacts](#lifestyle-impacts)
+- [Causation vs Correlation](#causation-vs-correlation)
+  - [Microbe induced malnutrition](#microbe-induced-malnutrition)
 
 [[Gut Biology Key Terms]]
 

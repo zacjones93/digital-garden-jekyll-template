@@ -1,3 +1,4 @@
 ---
 title: FODMAPs
+tags: nutrition
 ---
