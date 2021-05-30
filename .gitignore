@@ -2,6 +2,5 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-_includes/notes_graph.json
-_includes/crossfit_notes_graph.json
+_includes/tagged_notes_graph.json
 .DS_Store

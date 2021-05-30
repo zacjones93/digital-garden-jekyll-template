@@ -39,20 +39,5 @@ layout: default
   </div>
 </article>
 
-<hr>
 
-<p>Here are all the notes in this garden, along with their links, visualized as a graph.</p>
-
-
-
-
-
-{% if page.tags contains "CrossFit" %}
-  {% include crossfit_notes_graph.html %}
-{% elsif page.tags contains "design" %}
-  {% include design_notes_graph.html %}
-  {% elsif page.tags contains "nutrition" %}
-  {% include nutrition_notes_graph.html %}
-{% else %}
-  {% include notes_graph.html %}
-{% endif %}
+{% include notes_graph.html  tag=page.tags %}

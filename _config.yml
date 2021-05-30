@@ -1,21 +1,23 @@
-title:               Zac's digital garden
-include:             ['_pages']
-url:                 https://zacjones.dev/
+title: Zac's digital garden
+include: ["_pages"]
+url: https://zacjones.dev/
 
 minima:
   social_links:
     twitter: zacjones93
-    github:  zacjones93
+    github: zacjones93
 
-permalink:           pretty
+permalink: pretty
 relative_permalinks: false
 
 plugins:
   - jekyll-last-modified-at
 
+graph: ["nutrition", "CrossFit", "design"]
+
 sass:
-  sass_dir:          _sass
-  style:            :compressed
+  sass_dir: _sass
+  style: :compressed
 
 collections:
   notes:
@@ -31,4 +33,3 @@ defaults:
       path: "_notes/**/*.md"
     values:
       layout: "note"
-

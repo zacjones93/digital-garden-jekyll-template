@@ -46,10 +46,15 @@
     const FONT_BASELINE = 15;
     const MAX_LABEL_LENGTH = 50;
 
-    const graphData = {% include notes_graph.json %}
+    const graphData = {% include tagged_notes_graph.json %}
+    const tag = `{{ include.tag }}`
+    const pageTag = tag.split(" ")[0]
 
-    let nodesData = graphData.nodes;
-    let linksData = graphData.edges;
+    if(tag != "") {
+
+
+    let nodesData = graphData.nodes[`${pageTag}`];
+    let linksData = graphData.edges[`${pageTag}`];
 
     const onClick = (d) => {
       window.location = d.path
@@ -192,5 +197,6 @@
       if (str.length <= maxLen) return str;
       return str.substr(0, str.lastIndexOf(separator, maxLen)) + '...';
     }
+  }
   </script>
 </div>

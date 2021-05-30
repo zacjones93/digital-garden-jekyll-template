@@ -7,14 +7,14 @@ end
 # frozen_string_literal: true
 class BidirectionalLinksGenerator < Jekyll::Generator
   def generate(site)
-    graph_nodes = []
-    graph_edges = []
-    crossfit_graph_nodes = []
-    crossfit_graph_edges = []
-    design_graph_nodes = []
-    design_graph_edges = []
-    nutrition_graph_nodes = []
-    nutrition_graph_edges = []
+    sub_graph_nodes = {}
+    sub_graph_edges = {}
+
+    tags = site.config["graph"]
+    tags.each do |tag|
+      sub_graph_nodes.merge!({"#{tag}": []})
+      sub_graph_edges.merge!({"#{tag}": []})
+    end
 
     all_notes = site.collections['notes'].docs
     all_pages = site.pages
@@ -39,108 +39,50 @@ class BidirectionalLinksGenerator < Jekyll::Generator
         e.content.include?(current_note.url)
       end
 
-      # Nodes: Graph
-      graph_nodes << {
-        id: note_id_from_note(current_note),
-        path: current_note.url,
-        label: current_note.data['title'],
-      } unless current_note.path.include?('_notes/index.html')
+      sub_graph_nodes.each {|key, value| 
+        if current_note.data['tags'].include?("#{key}")
+          value << {
+            id: note_id_from_note(current_note),
+            path: current_note.url,
+            label: current_note.data['title'],
+          } unless current_note.path.include?('_notes/index.html')
+        end
+        value.uniq!
+      }
 
 			# Edges: Jekyll
       current_note.data['backlinks'] = notes_linking_to_current_note
 
       # Edges: Graph
-      notes_linking_to_current_note.each do |n|
-        graph_edges << {
-          source: note_id_from_note(n),
-          target: note_id_from_note(current_note),
-        }
-
-        if current_note.data['tags'].include?("CrossFit")
-          crossfit_graph_nodes << {
-            id: note_id_from_note(current_note),
-            path: current_note.url,
-            label: current_note.data['title'],
-          } unless current_note.path.include?('_notes/index.html')
-        end
-
-        if current_note.data['tags'].include?("CrossFit")
-          notes_linking_to_current_note.each do |n|
-            if n.data['tags'].include?("CrossFit")
-            crossfit_graph_edges << {
-              source: note_id_from_note(n),
-              target: note_id_from_note(current_note),
-            }
+        notes_linking_to_current_note.each do |n|
+          sub_graph_edges.each {|key, value|
+            if current_note.data['tags'].include?("#{key}")
+              notes_linking_to_current_note.each do |n|
+                if n.data['tags'].include?("#{key}")
+                  value << {
+                    source: note_id_from_note(n),
+                    target: note_id_from_note(current_note),
+                  }
+                end
+                value.uniq!
+              end
             end
-          end
+          }
         end
-
-        if current_note.data['tags'].include?("design")
-          design_graph_nodes << {
-            id: note_id_from_note(current_note),
-            path: current_note.url,
-            label: current_note.data['title'],
-          } unless current_note.path.include?('_notes/index.html')
-        end
-
-        if current_note.data['tags'].include?("design")
-          notes_linking_to_current_note.each do |n|
-            if n.data['tags'].include?("design")
-              design_graph_edges << {
-              source: note_id_from_note(n),
-              target: note_id_from_note(current_note),
-            }
-            end
-          end
-        end
-
-
-        if current_note.data['tags'].include?("nutrition")
-          nutrition_graph_nodes << {
-            id: note_id_from_note(current_note),
-            path: current_note.url,
-            label: current_note.data['title'],
-          } unless current_note.path.include?('_notes/index.html')
-        end
-
-        if current_note.data['tags'].include?("nutrition")
-          notes_linking_to_current_note.each do |n|
-            if n.data['tags'].include?("nutrition")
-              nutrition_graph_edges << {
-              source: note_id_from_note(n),
-              target: note_id_from_note(current_note),
-            }
-            end
-          end
-        end
-      end
     end
 
 
-
-    File.write('_includes/notes_graph.json', JSON.dump({
-      edges: graph_edges.uniq!,
-      nodes: graph_nodes,
-    }))
-
-    File.write('_includes/crossfit_notes_graph.json', JSON.dump({
-      edges: crossfit_graph_edges.uniq!,
-      nodes: crossfit_graph_nodes.uniq!,
-    }))
-
-    File.write('_includes/design_notes_graph.json', JSON.dump({
-      edges: design_graph_edges.uniq!,
-      nodes: design_graph_nodes.uniq!,
-    }))
-
-      File.write('_includes/nutrition_notes_graph.json', JSON.dump({
-      edges: nutrition_graph_edges.uniq!,
-      nodes: nutrition_graph_nodes.uniq!,
+    File.write("_includes/tagged_notes_graph.json", JSON.dump({
+      edges: sub_graph_edges,
+      nodes: sub_graph_nodes,
     }))
 
   end
 
 
+  def generate_tag_hash(site)
+
+  end
   def note_id_from_note(note)
     note.data['title'].delete(' ').delete('-').to_i(36).to_s
   end
