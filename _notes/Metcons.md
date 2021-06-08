@@ -4,6 +4,10 @@ image: ./squat.JPG
 tags: CrossFit
 ---
 
+## Wod Breakdown
+
+- [[2020-06-08 First Class Breakdown]]
+
 ## AMRAP
 
 - [[AMRAP sHSPU & Burpee Box Jumps]]
