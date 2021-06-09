@@ -11,16 +11,33 @@ tags: technology
  ## Rubric Score
  
 [Course Quality Rubric](https://roamresearch.com/#/app/egghead/page/BRYKMsAyG)
-- Are there opportunities for self-assessment? (1-4): 1
-- Is the course content high quality? (1-4): 4 
-- Is the course content current and up to date? (1-4): 1
-- Does the content meet the stated learning goals? (1-4): 4
-- Does the content incorporate proof (to the learner and others) that the stated learning goals were achieved? (1-4): 1
-- Is the course material evergreen? (1-4): 2
-- How much depth of knowledge does the course provide? (1-4): 4
-- Is the course actionable? (1-4): 1
+- Are there opportunities for self-assessment? (1-4):
+  - 1
+  - Unless the learner takes it upon themselves to find quizzes, there is no self-assessment built into the course
+- Is the course content high quality? (1-4):
+  - 4
+  - The quality is top notch. There are a lot of Big Ideas baked into the course as you learn the essential knowledge for starting with React Native.
+- Is the course content current and up to date? (1-4):
+  - 1
+  - This course is woefully out of date. The stater template you are given is much different than what is presented in the course with much of the React drastically different.
+- Does the content meet the stated learning goals? (1-4):
+  - 3
+  - This is a great course but the learning goal is a little fuzzy between learning vanilla React and React Native. (is there a distinction?)
+  - The addition of Firebase at the end felt like coverage and not so much part of the core goal of the course.
+- Does the content incorporate proof (to the learner and others) that the stated learning goals were achieved? (1-4):
+  - 1
+  - There is no proof of learning, learners can follow along in their own repo but that does not prove that learning happened.
+- Is the course material evergreen? (1-4):
+  - 2
+  - There is some React patterns in here that are evergreen. The React Native content is not.
+- How much depth of knowledge does the course provide? (1-4):
+  - 4
+  - Great intro course. If up to date, this would give you all the knowledge you need to know to start with React Native.
+- Is the course actionable? (1-4):
+  - 1
+  - No. The burden is 100% on the learner to get started.
 
-Total Score: 18
+Total Score: 17
 
 
 [React Native CHANGELOG](https://github.com/react-native-community/releases/blob/master/CHANGELOG.md)
