@@ -26,7 +26,7 @@ Total Score: 18
 [React Native CHANGELOG](https://github.com/react-native-community/releases/blob/master/CHANGELOG.md)
 
 ## Review
-### Start Building a React Native Application
+### 01. Start Building a React Native Application
 
 ```js
 <TimeStamp start={00:00:00} end={00:00:08}>
@@ -77,7 +77,7 @@ React Native no longer uses `require` syntax and now uses es6 module import synt
   -  Alain, to open an xcode project you need to navigate to the folder with the .xcodeproj file. This is in the ios folder. Something must have changed since the video was made. If you you look at the output of the 'react-native init ....' you will see they point you to this folder.
 
 
-### Set up Basic iOS Routing with React Native
+### 02. Set up Basic iOS Routing with React Native
 
 
 NavigatorIOS looks to be deprecated as of 4 years ago.. The use of class components instead of functional is confusing things further. The react native starter that you are put in if you go through the default path is all function based
@@ -86,7 +86,7 @@ NavigatorIOS looks to be deprecated as of 4 years ago.. The use of class compone
 
 - 'Navigation component is essential to learning react-native'
 
-### Use State and Touch Events in React Native
+### 03. Use State and Touch Events in React Native
 
 - Main components used: TextInput, TouchableHighlight, ActivityIndicatorIOS
 
@@ -101,11 +101,11 @@ If you are using ES6 Arrow functions, you do not need to bind the `this` keyword
 <TimeStamp />
 ```
 
-### Understand the fetch API
+### 04. Understand the fetch API
 
 - fetch api is available in all modern browsers
 
-### Use Fetch to Load External Data in React Native
+### 05. Use Fetch to Load External Data in React Native
 
 - A lot of good concepts here that are still fresh regarding fetching data in React. The implementation on the React side would be different but the fetching and setting data are similar
 
@@ -115,27 +115,27 @@ In modern React, this would be done in a useEffect.
 <TimeStamp />
 ```
 
-### Pass Data when Changing Routes in React Native
+### 06. Pass Data when Changing Routes in React Native
 
 - passes props through a route change. fundamental concept.
 - React Navigation looks like the defacto solution for React Native Routing
   - https://reactnative.dev/docs/navigation
 
-### Use React Native's Error Handle and ActivityIndicatiorIOS
+### 07. Use React Native's Error Handle and ActivityIndicatiorIOS
 
 - fundamental UX pattern of handling loading state by showing a loader
 
-### Use Images in a React Native Application
+### 08. Use Images in a React Native Application
 
 - interesting pattern for styling different buttons.
   - puts styles in a function and sets different background colors depending on the number you pass
   - is this a normal way to style in React Native?
 
-### Use propTypes in Reusable React Native Components
+### 09. Use propTypes in Reusable React Native Components
 
 - propTypes will make React throw an error when props don't match what we are expecting
 
-### Create a Scrollable React Native Component with ScrollView
+### 10. Create a Scrollable React Native Component with ScrollView
 
 - v0.64.0 -- Removed DEPRECATED_sendUpdatedChildFrames prop from ScrollView component (deprecated in 0.47)
 - v0.58.0 -- Breaking changes to ScrollView, CameraRollView, and SwipeableRow that make it no longer bound to the component instance in certain methods. Converted to an ES6 class.
@@ -144,11 +144,11 @@ In modern React, this would be done in a useEffect.
 - mapping over an array
 - formatting data function
 
-### Build a Reusable React Native UI Component
+### 11. Build a Reusable React Native UI Component
 - component organization
   - 'helper components' or common UI elements
 
-### Build a Github Repositories Component in React Native
+### 12. Build a Github Repositories Component in React Native
 - conditionally rendering components based on props that are recieved
 
 ```js
@@ -159,12 +159,12 @@ With ES6 you can use an arrow function instead of binding `this`.
 
 - 05:35 - proptypes
 
-### Navigate to a React Native component
+### 13. Navigate to a React Native component
 
 - makes request on button press
 - passes the data that is received from request to component that's being navigated to
 
-### Access Web Pages through React Native's WebView Component
+### 14. Access Web Pages through React Native's WebView Component
 
 - names component Web_View
   - interesting style (ah, because WebView is from React Native)
@@ -176,18 +176,18 @@ Changes
   - v0.57.0 WebView will be moved to its own repo at react-native-community/react-native-webview.
   - v0.56.0 Restrict WebView to only http(s) URLs by default
 
-### Persist data in React Native with Firebase REST API
+### 15. Persist data in React Native with Firebase REST API
 
 - Firebase website looks much different
 
 
-### Build a View with React Native's ListView Component
+### 16. Build a View with React Native's ListView Component
 
 https://reactnative.dev/docs/0.62/listview
 
 - ListView is Deprecated, use FlatList or SectionList
 - [TouchableHighlight](https://reactnative.dev/docs/touchablehighlight) - If you're looking for a more extensive and future-proof way to handle touch-based input, check out the Pressable API.
 
-### Complete the Notes view in React Native
+### 17. Complete the Notes view in React Native
 
 [Image Source URIs with HTTPS (SSL) Work, HTTP do NOT Work (React Native v0.30.0)](https://stackoverflow.com/questions/38587451/image-source-uris-with-https-ssl-work-http-do-not-work-react-native-v0-30-0/38587838#38587838)
