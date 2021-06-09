@@ -8,7 +8,7 @@ tags: technology
 <TimeStamp />
  -->
 
- ## Rubric Score
+## Rubric Score
  
 [Course Quality Rubric](https://roamresearch.com/#/app/egghead/page/BRYKMsAyG)
 - Are there opportunities for self-assessment? (1-4):
