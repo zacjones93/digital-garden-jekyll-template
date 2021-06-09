@@ -112,11 +112,11 @@ nav {
 }
 
 li {
-  max-width: 42em;
+  max-width: 25em;
   overflow-wrap: break-word;
 
   @media (min-width: 820px) {
-    max-width: 25em;
+    max-width: 42em;
     overflow-wrap: break-word;
   }
 }
