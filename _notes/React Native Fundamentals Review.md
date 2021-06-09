@@ -9,6 +9,7 @@ tags: technology
  -->
 
  ## Rubric Score
+ 
 [Course Quality Rubric](https://roamresearch.com/#/app/egghead/page/BRYKMsAyG)
 - Are there opportunities for self-assessment? (1-4): 1
 - Is the course content high quality? (1-4): 4 
