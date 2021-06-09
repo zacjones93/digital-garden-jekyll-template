@@ -111,9 +111,20 @@ nav {
   margin: 1em 0 3em;
 }
 
+li {
+  max-width: 42em;
+  overflow-wrap: break-word;
+
+  @media (min-width: 820px) {
+    max-width: 25em;
+    overflow-wrap: break-word;
+  }
+}
+
 #notes-entry-container {
   display: grid;
   grid-gap: 2em;
+  max-width: 80%;
   grid-template-areas:
     "content"
     "side";
