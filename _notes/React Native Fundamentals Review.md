@@ -27,9 +27,11 @@ Total Score: 18
 ## Review
 ### Start Building a React Native Application
 
+```js
 <TimeStamp start={00:00:00} end={00:00:08}>
   `native.reactjs.com` no longer works, visit https://reactnative.dev/
 <TimeStamp />
+```
 
 - No longer intro page in docs, need to go to `Environment Set up`. Expo CLI looks like a new tool in the space which they have set up instructions for. Tab over to React Native CLI to follow a similar process
 - set up super outdated
@@ -38,23 +40,23 @@ Total Score: 18
 - Docs now recommend using npx to set up a project
 - CocoaPods needs to be installed as well, did so with homebrew
 
-
+```js
 <TimeStamp start={00:01:15} end={00:01:26}>
-```bash
 npx react-native init eggheadProject
-```
 <TimeStamp />
+```
 
 - opening up the project like it's done in the video does not work, need to open the iOS subdirectory
 
-
+```js
 <TimeStamp start={00:01:55} end={00:02:00}>
 Open up `{projectFolder}/ios` in XCode to properly run the application
 <TimeStamp />
+```
 
 - live reload is enabled by default now
 
-
+```js
 <TimeStamp start={00:04:32} end={00:04:37}>
 The default application is using React functional components which differs from what is shown in this lesson
 <TimeStamp />
@@ -62,6 +64,7 @@ The default application is using React functional components which differs from 
 <TimeStamp start={00:05:05} end={00:05:31}>
 React Native no longer uses `require` syntax and now uses es6 module import syntax. Using the components is still the same.
 <TimeStamp />
+```
 
 - The last 3-4 minutes of this lesson would be better suited as a mini-talk. Nothing happens on the screen for the duration.
 
@@ -86,7 +89,7 @@ NavigatorIOS looks to be deprecated as of 4 years ago.. The use of class compone
 
 - Main components used: TextInput, TouchableHighlight, ActivityIndicatorIOS
 
-
+```js
 <TimeStamp start={00:01:30} end={00:02:00}>
 Initializing state in a constructor assumes you are using a Class component. If you are using a functional React component you would use a `useState` hook.
 <TimeStamp />
@@ -95,7 +98,7 @@ Initializing state in a constructor assumes you are using a Class component. If 
 <TimeStamp start={00:03:49} end={00:04:15}>
 If you are using ES6 Arrow functions, you do not need to bind the `this` keyword. [More on `this` and Arrow functions here](https://egghead.io/lessons/javascript-capture-this-with-an-arrow-function).
 <TimeStamp />
-
+```
 
 ### Understand the fetch API
 
@@ -105,9 +108,11 @@ If you are using ES6 Arrow functions, you do not need to bind the `this` keyword
 
 - A lot of good concepts here that are still fresh regarding fetching data in React. The implementation on the React side would be different but the fetching and setting data are similar
 
+```js
 <TimeStamp start={00:04:20} end={00:00:08}>
 In modern React, this would be done in a useEffect.
 <TimeStamp />
+```
 
 ### Pass Data when Changing Routes in React Native
 
@@ -145,10 +150,11 @@ In modern React, this would be done in a useEffect.
 ### Build a Github Repositories Component in React Native
 - conditionally rendering components based on props that are recieved
 
-
+```js
 <TimeStamp start={00:04:16} end={00::04:38}>
 With ES6 you can use an arrow function instead of binding `this`.
 <TimeStamp />
+```
 
 - 05:35 - proptypes
 
