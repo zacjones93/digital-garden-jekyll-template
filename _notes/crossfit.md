@@ -37,7 +37,7 @@ I will be posting the progressions and metcon breakdowns that I make here:
 
 - [[Progressions]]
 - [[Metcons]]
-
+- [[CrossFit Class Planning]]
 ### Coaches Practice Evaluations
 
 These are evaluation sessions that [[CrossFit Route 7]] hosts for it's coaches to work on the various skills to be an effective coach. In particular -- class management skills and identifying/cueing faults that athletes perform while performing the various functional movements that can be found in workouts.
