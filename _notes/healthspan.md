@@ -1,0 +1,6 @@
+---
+title: healthspan
+tags: CrossFit
+---
+
+Healthspan is a term that I've heard Ben Bergeron use in his podcast that has resonated with me. We don't want to just live a long life, we want to live full of health the whole time. And as we know, performing functional movements at high intensity is a super effective way to continue living healthy. While the functional movements will remain largely the same throughout our life, intensity is a variable that is a bit more opaque because it is different for everyone. What intensity is also changes as we get older. A topic I've been thinking about is what 'high intensity' looks like for folks that are older. My mom and dad are approaching 70 years old and are convinced that CrossFit is not for them because they 'shouldn't lift weights like I do.' While that is 100% true, they should still be resistance training to maintain muscle mass as they age but they aren't convinced of that. I love the push that CrossFit has made this past year to make the open more accessible and show representation of different athletes. In particular to this subject, seeing the amazing things you can do as you age and that you don't (and shouldn't!) have to stop moving like you use to. 

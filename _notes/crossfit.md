@@ -27,6 +27,8 @@ These are functional movements that you will find yourself doing regardless of y
 
 Training these [[Movements]] will prepare you for life.
 
+- [[Topics and thoughts]]
+
 ## Coaching
 
 I have recently started my coaching journey after 8 years of being an athlete with CrossFit. Below you will find my notes on different aspects of coaching.
@@ -55,6 +57,7 @@ These are evaluation sessions that [[CrossFit Route 7]] hosts for it's coaches t
 [Movements]: Movements "Movements"
 [Progressions]: Progressions "Progressions"
 [Metcons]: Metcons "Metcons"
+[CrossFit Class Planning]: CrossFit Class Planning "CrossFit Class Planning"
 [CrossFit Route 7]: CrossFit Route 7 "CrossFit Route 7"
 [2020-03-27 Push Press]: 2020-03-27 Push Press "2020-03-27 Push Press"
 [2020-05-15 Low Hang Power Clean]: 2020-05-15 Low Hang Power Clean "2020-05-15 Low Hang Power Clean"
