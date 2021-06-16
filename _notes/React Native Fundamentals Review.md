@@ -3,10 +3,6 @@ title: React Fundamentals Review
 tags: technology
 ---
 
-<!-- 
-<TimeStamp start={} end={}>
-<TimeStamp />
- -->
 
 ## Rubric Score
  
@@ -46,7 +42,7 @@ Total Score: 17
 ### 01. Start Building a React Native Application
 
 ```js
-<TimeStamp start={00:00:00} end={00:00:08}>
+<TimeStamp start="00:00:00" end="00:00:08">
   `native.reactjs.com` no longer works, visit https://reactnative.dev/
 <TimeStamp />
 ```
@@ -59,7 +55,7 @@ Total Score: 17
 - CocoaPods needs to be installed as well, did so with homebrew
 
 ```js
-<TimeStamp start={00:01:15} end={00:01:26}>
+<TimeStamp start="00:01:15" end="00:01:26">
 npx react-native init eggheadProject
 <TimeStamp />
 ```
@@ -67,7 +63,7 @@ npx react-native init eggheadProject
 - opening up the project like it's done in the video does not work, need to open the iOS subdirectory
 
 ```js
-<TimeStamp start={00:01:55} end={00:02:00}>
+<TimeStamp start="00:01:55" end="00:02:00">
 Open up `{projectFolder}/ios` in XCode to properly run the application
 <TimeStamp />
 ```
@@ -75,11 +71,11 @@ Open up `{projectFolder}/ios` in XCode to properly run the application
 - live reload is enabled by default now
 
 ```js
-<TimeStamp start={00:04:32} end={00:04:37}>
+<TimeStamp start="00:04:32" end="00:04:37">
 The default application is using React functional components which differs from what is shown in this lesson
 <TimeStamp />
 
-<TimeStamp start={00:05:05} end={00:05:31}>
+<TimeStamp start="00:05:05" end="00:05:31">
 React Native no longer uses `require` syntax and now uses es6 module import syntax. Using the components is still the same.
 <TimeStamp />
 ```
@@ -108,12 +104,12 @@ NavigatorIOS looks to be deprecated as of 4 years ago.. The use of class compone
 - Main components used: TextInput, TouchableHighlight, ActivityIndicatorIOS
 
 ```js
-<TimeStamp start={00:01:30} end={00:02:00}>
+<TimeStamp start="00:01:30" end="00:02:00">
 Initializing state in a constructor assumes you are using a Class component. If you are using a functional React component you would use a `useState` hook.
 <TimeStamp />
 
 
-<TimeStamp start={00:03:49} end={00:04:15}>
+<TimeStamp start="00:03:49" end="00:04:15">
 If you are using ES6 Arrow functions, you do not need to bind the `this` keyword. [More on `this` and Arrow functions here](https://egghead.io/lessons/javascript-capture-this-with-an-arrow-function).
 <TimeStamp />
 ```
@@ -127,7 +123,7 @@ If you are using ES6 Arrow functions, you do not need to bind the `this` keyword
 - A lot of good concepts here that are still fresh regarding fetching data in React. The implementation on the React side would be different but the fetching and setting data are similar
 
 ```js
-<TimeStamp start={00:04:20} end={00:00:08}>
+<TimeStamp start="00:04:20" end="00:00:08">
 In modern React, this would be done in a useEffect.
 <TimeStamp />
 ```
@@ -169,7 +165,7 @@ In modern React, this would be done in a useEffect.
 - conditionally rendering components based on props that are recieved
 
 ```js
-<TimeStamp start={00:04:16} end={00::04:38}>
+<TimeStamp start="00:04:16" end="00::04:38">
 With ES6 you can use an arrow function instead of binding `this`.
 <TimeStamp />
 ```
