@@ -9,6 +9,6 @@ Consider the context that the class is going to be in. We won't have time to cov
 
 For each piece of the workout, you should be estimating the time it will take to work through it so you can optimize the hour. "Warm up will take 8 minutes, that leaves X minutes for Strength, X minutes for transition, and X minutes for the metcon for the day."
 
-Yell louder.
+Project louder!
 
 Think about logistics, this Strength piece has 2 barbells so instructing everyone to find a partner of similar strength and claim another barbell would be the right thing to do.
