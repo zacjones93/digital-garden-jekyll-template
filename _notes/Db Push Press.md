@@ -1,0 +1,20 @@
+---
+title: Db Push Press
+tags: CrossFit
+---
+
+Pretty much a [[Push Press]]..
+- demo
+- front rack position
+  - the back head of the dumbbell is resting on your shoulders
+  - elbows slightly in front of your shoulders
+  - shoulders engaged, back and down
+- dip and stand (8 reps)
+  - knees out
+  - vertical chest
+  - slight dip
+- singles (8 reps)
+  - focus on exploding out of the dip
+- a set of 8
+  - keep chest up
+  - slight 2" dip
