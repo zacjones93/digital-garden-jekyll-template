@@ -35,13 +35,13 @@ tags: CrossFit
 - Feet shuffle out into a catching stance
 - hip crease stays above parallel
 ## Progression
-- bergener warm up
+- [[Burgener Warm Up]]
   - high-hang dip and drive
     - check extension
     - check arms for bend
     - check shrug
   - high-hang dip, drive and high pull
-    - check order of  operations
+    - check order of operations
       - pull, extend, pull, turn over
     - check extension
   - high-hang power clean
