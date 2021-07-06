@@ -25,19 +25,22 @@ build in weight
   - tuck your hips
   - keep core engaged
 - Jerk foot work (5-8 reps)
+  - FRONT FOOT BACK FOOT
   - start with feet underneath you
   - 2" dip - chest up
   - drive your front foot out
   - land in the jerk position we just worked on
-  - hold until I say reset
+  - hold until I say reset (atleast 3 seconds)
   - check for knees being over toes and hips being tucked
 - tall Jerk (5-8 reps)
+  - FRONT FOOT BACK FOOT
   - start in standing position
   - bar in front of face
   - get on tip toes
   - drive under the bar into the position we've been working on
   - speed under the bar
 - Jerk with bar (5-8 reps)
+  - FRONT FOOT BACK FOOT
   - same idea as previous drill but with the bar
   - straight bar path
   - 2" dip
