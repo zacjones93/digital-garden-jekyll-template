@@ -7,12 +7,12 @@ tags: CrossFit
 ## Warm up -- skill transfer
 
 - (Behind the Neck) [[BTN Push Press]]
-- [[Pressing Snatch Balance]]
+- [[Pressing Snatch Balance]] ([link](https://www.youtube.com/watch?v=RxjY4CggkVA&ab_channel=CrossFit%C2%AE))
   - You're feet are in squatting stance
   - start with the bar in your back rack position
   - Initiate the movement by pushing yourself under the bar
   - end with locked out arms overhead in an [[Overhead Squat]] position
-- [[Heaving Snatch Balance]]
+- [[Heaving Snatch Balance]] ([link](https://www.youtube.com/watch?v=VCYa3N9Qb4o&ab_channel=CrossFit%C2%AE))
   - Similar to Pressing Snatch Balance, start with feet in squatting stance
   - Bar is in back rack position
   - Initiate movement by dipping into a push press
