@@ -7,6 +7,7 @@ tags: CrossFit
 - [[Sumo Deadlift highpull]]
 - [[medball clean]]
 - [[Snatch]]
+- [[Power Snatch]]
 
 
 
