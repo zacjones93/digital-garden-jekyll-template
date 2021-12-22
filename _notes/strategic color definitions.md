@@ -1,6 +1,6 @@
 ---
 title: strategic color definitions
-tags: Design
+tags: design
 ---
 
 Every color you use should have a reason behind it. You can have colors for doing something as well as colors for going somewhere.
