@@ -12,6 +12,7 @@ tags: [design]
 ## Big Ideas
 
 - [[Hierarchy]]
+- [[color]]
 
 ## Articles
 
