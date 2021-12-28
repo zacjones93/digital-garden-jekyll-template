@@ -3,7 +3,7 @@ title: The Mom Test
 tags: [business, book review]
 ---
 
-[The Mom Test](http://momtestbook.com/) by [[author/Rob Fitzpatrick]]
+[The Mom Test](http://momtestbook.com/) by [[Rob Fitzpatrick]]
 
 The Mom Test is simple. Employ the [[Strategy of Preeminence]] with your user research.
 
