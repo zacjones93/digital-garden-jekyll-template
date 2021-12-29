@@ -1,4 +1,4 @@
 ---
 title: Rob Fitzpatrick
-tags: [author, business]
+tags: business
 ---

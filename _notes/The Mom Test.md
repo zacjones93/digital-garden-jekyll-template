@@ -1,6 +1,6 @@
 ---
 title: The Mom Test
-tags: [business, book review]
+tags: business
 ---
 
 [The Mom Test](http://momtestbook.com/) by [[Rob Fitzpatrick]]
