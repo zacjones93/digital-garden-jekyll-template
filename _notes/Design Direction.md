@@ -1,5 +1,6 @@
 ---
 title: Design Direction
+image: assets/images/01-og-image-design-direction.png
 tags: design
 ---
 
