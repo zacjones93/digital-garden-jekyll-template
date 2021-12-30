@@ -9,8 +9,11 @@ tags: [design]
 - [[Course banners and CTAs]]
 - [[Design Assets]]
 
+- [[shoulditrain.today]]
+
 ## Big Ideas
 
+- [[Design Direction]]
 - [[Hierarchy]]
 - [[color]]
 
