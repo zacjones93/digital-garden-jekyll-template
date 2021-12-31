@@ -31,6 +31,8 @@
     background: #fcfcfc;
     border-radius: 4px;
     height: auto;
+    overflow-x: scroll;
+    margin-top: 1em;
   }
 </style>
 
@@ -59,7 +61,6 @@
     let nodesData = graphData.nodes[`${pageTag}`];
     let linksData = graphData.edges[`${pageTag}`];
     
-    console.log(nodesData)
     const nodeSize = {};
     
     const updateNodeSize = () => {
