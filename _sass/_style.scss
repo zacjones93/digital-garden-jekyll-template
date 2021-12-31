@@ -17,7 +17,7 @@ body {
   padding: 4vh 6vw;
   overflow-x: hidden;
   color: $color-text;
-  font-size: 1rem;
+  font-size: 1.4rem;
   max-width: 63em;
 
   @media (min-width: 820px) {
@@ -108,7 +108,7 @@ a {
 }
 
 *:focus {
-  background: #ffe8bc !important;
+  background: #21b59c !important;
   color: black !important;
 }
 

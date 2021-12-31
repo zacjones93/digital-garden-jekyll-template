@@ -1,7 +1,7 @@
 /**
  * Site footer
  */
- .site-footer {
+.site-footer {
   border-top: 1px solid grey;
   padding: 1px 0;
 }
@@ -12,14 +12,24 @@
 }
 
 .feed-subscribe .svg-icon {
-  padding: 5px 5px 2px 0
+  padding: 5px 5px 2px 0;
 }
 
-.contact-list,
+.contact-list {
+  display: flex;
+  list-style: none;
+  margin-left: 0;
+}
+
 .social-media-list {
   display: flex;
   list-style: none;
   margin-left: 0;
+  padding-inline-start: 0;
+
+  &:hover {
+    padding: 7px 5px;
+  }
 }
 
 .svg-icon {
@@ -63,7 +73,7 @@
 
 @media screen and (min-width: 800px) {
   .footer-col-wrapper {
-    display: flex
+    display: flex;
   }
 
   .footer-col {
