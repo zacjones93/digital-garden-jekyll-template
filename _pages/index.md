@@ -47,7 +47,7 @@ permalink: /
         [[Design]]
       </h1>
       <p class="card-p">
-        Crafting intent through whatever medium you find yourself in be it UI, learning design, etc.
+        Crafting intent through whatever medium you find yourself in whether it's UI, learning design, or other.
       </p>
       </div>
     </div>
