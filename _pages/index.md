@@ -2,6 +2,7 @@
 layout: page
 title: Home
 id: home
+image: assets/images/og-image.png
 permalink: /
 ---
 
