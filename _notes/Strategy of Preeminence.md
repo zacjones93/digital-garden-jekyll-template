@@ -3,7 +3,7 @@ title: Strategy of Preeminence
 tags: [business]
 ---
 
-[[Strategy of Preeminence--raw notes]]
+[[Strategy of Preeminence raw notes]]
 ## Strategy of Preeminence
 
 This post is a collection of my thoughts and notes on Jay Abraham's talk on [Advanced Strategy of Preeminence](https://www.youtube.com/watch?v=2Gw14EJkzYs) which addresses Jay's #1 strategy for approaching business and life in general.
