@@ -17,6 +17,11 @@ tags: [design]
 - [[Hierarchy]]
 - [[color]]
 
+## Crafting Intent
+- [[Badass-- Making Users Awesome]]
+- [[Understanding by Design]]
+- [[Christopher Alexanders System Design]]
+
 ## Articles
 
 - [[Utilize the Implicit Grid for consistent design of UI Elements]]

@@ -91,27 +91,34 @@ permalink: /
   <div class="content-fit article-child-align">
     <h2 class="content-fit sm-center-content">Articles & Prominent Notes</h2>
     <ul>
-      <li>Utilize the Implicit Grid for consistent design of UI Elements</li>
-      <li>What are Essential Questions?</li>
-      <li>Utilize the Implicit Grid for consistent design of UI Elements</li>
-      <li>Sales Safari</li>
-      <li>Handle Multiple Inputs in React with ES6 Computed Property Name</li>
-      <li>What is (Doom) Emacs?</li>
-      <li>Ryan Singer's Primer on Christopher Alexander's System Design</li>
+      <li>[[Utilize the Implicit Grid for consistent design of UI Elements]]</li>
+      <li>[[Understanding by Design]]</li>
+      <li>[[High Quality Screen Casts Are Well-Scoped with a Single Take-Away]]</li>
+      <li>[[Sales Safari]]</li>
+      <li>[[Handle Multiple Inputs in React with ES6 Computed Property Name]]</li>
+      <li>[[Christopher Alexanders System Design]]</li>
     </ul>
   </div>
   <div class="content-fit article-child-align">
     <h2 class="content-fit sm-center-content">Projects</h2>
     <ul>
-      <li>egghead.io - PR showcase pulling Sanity data into a Next.js site</li>
-      <li>egghead-kenv -- collection of internal team scripts and tools</li>
-      <li>theianjones/fulcro-should-i-train</li>
+      <li>egghead.io -- <a href="https://github.com/eggheadio/egghead-next/pull/602">PR showcase pulling Sanity data into a Next.js site</a></li>
+      <li>egghead-kenv -- <a href="https://github.com/zacjones93/egghead-kenv">collection of internal team scripts and tools</a></li>
+      <li>[[shoulditrain.today]]</li>
+    </ul>
+    <h2 class="content-fit sm-center-content">Book Reviews & Notes</h2>
+    <ul>
+      <li>[[Badass-- Making Users Awesome]]</li>
+      <li>[[The Mom Test]]</li>
     </ul>
   </div>
 </div>
 
 
 <style>
+  .phone-hero {
+    display: block;
+  }
   .laptop-hero {
     display: none;
   }
