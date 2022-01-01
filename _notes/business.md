@@ -3,7 +3,7 @@ title: Business
 tags: business
 ---
 
-
+- [[Badass-- Making Users Awesome]]
 ## User Research
 
 - [[Sales Safari]] is Sales Safari is the process of learning what naturally attracts and motivates people 'out in the wild.'

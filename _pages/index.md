@@ -47,7 +47,7 @@ permalink: /
         [[Design]]
       </h1>
       <p class="card-p">
-        Say a sentence or two about design, this should be a high level summary to give people what I think
+        Crafting intent through whatever medium you find yourself in be it UI, learning design, etc.
       </p>
       </div>
     </div>
@@ -58,7 +58,7 @@ permalink: /
         [[Business]]
       </h1>
       <p class="card-p">
-        Say a sentence or two about design, this should be a high level summary to give people what I think
+        The art of making money, mostly online, and everything that entails.
       </p>
       </div>
     </div>
@@ -69,7 +69,7 @@ permalink: /
         [[Dev]]
       </h1>
       <p class="card-p">
-        Say a sentence or two about design, this should be a high level summary to give people what I think
+        Building websites and programs with various languages and techniques.
       </p>
       </div>
     </div>
@@ -80,7 +80,7 @@ permalink: /
         [[crossfit]]
       </h1>
       <p class="card-p">
-        Say a sentence or two about design, this should be a high level summary to give people what I think
+        The way I achieve [[health]] and increase my [[healthspan]].
       </p>
       </div>
     </div>
