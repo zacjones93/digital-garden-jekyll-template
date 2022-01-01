@@ -129,12 +129,14 @@ li {
 #notes-entry-container {
   display: grid;
   grid-gap: 2em;
-  max-width: 80%;
+  margin: auto;
+  max-width: 95%;
   grid-template-areas:
     "content"
     "side";
 
   @media (min-width: 700px) {
+    margin: 0;
     grid-template-columns: 3fr 1fr;
     grid-template-areas: "content side";
   }
