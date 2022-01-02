@@ -11,6 +11,8 @@ Fitness is measured and defined as the work capacity of an individual across tim
 
 Read more about it in my [[CrossFit L1]] notes.
 
+- [[Weight Lifting]]
+
 ## Movement Breakdown
 There are 9 foundational movements that CrossFit is built upon. They are:
 - Air Squat

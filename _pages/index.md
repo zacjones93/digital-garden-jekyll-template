@@ -109,7 +109,7 @@ permalink: /
     </ul>
     <h2 class="content-fit sm-center-content">Book Reviews & Notes</h2>
     <ul>
-      <li>[[Badass-- Making Users Awesome]]</li>
+      <li>[[Badass Making Users Awesome]]</li>
       <li>[[The Mom Test]]</li>
     </ul>
   </div>

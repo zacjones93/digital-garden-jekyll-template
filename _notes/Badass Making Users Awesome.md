@@ -1,5 +1,5 @@
 ---
-title: Badass-- Making Users Awesome
+title: Badass Making Users Awesome
 tags: business
 ---
 
