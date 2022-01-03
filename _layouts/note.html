@@ -40,4 +40,13 @@ layout: default
 </article>
 
 
-{% include notes_graph.html  tag=page.tags %}
+{% assign is_tag = false %}
+{% for tag in site.graph %}
+  {% if tag == page.tags[0] %}
+    {% assign is_tag = true %}
+  {% endif %}
+{% endfor%}
+
+{% if is_tag == true %}
+  {% include notes_graph.html  tag=page.tags %}
+{% endif %}
