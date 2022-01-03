@@ -7,13 +7,13 @@ permalink: /
 ---
 
 <div class="phone-hero">
-    <div style="display: flex; flex-direction: row; justify-content: center;">
-      <img style="margin: 0;
-                  width: 50px;
-                  height: 50px;
-                  margin-right: 1em;" 
+    <div>
+      <img style="margin: auto;
+                  width: 75px;
+                  height: 75px;
+                  " 
            src="../../assets/logo-400.png">
-      <h1 style="margin-top: 0;  align-self: flex-end;"> Welcome!</h1>
+      <h1 class="content-fit" style=" margin:auto; margin-top: 1em;"> Welcome!</h1>
     </div>
     <p>
       This site is a collection of my thoughts that are organized into notes. They all very in length and polish.

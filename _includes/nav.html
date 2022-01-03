@@ -1,3 +1,42 @@
 <div class="wrapper">
-    <a class="internal-link" href="/"><b>{{ site.title }}</b></a>
+    <div class="gradient-box">
+        <a class="internal-link logo" href="/"><b>{{ site.title }}</b></a>
+    </div>
+    
 </div>
+
+<style>
+.gradient-box {
+  position: relative;
+  box-sizing: border-box;
+  background-color: #edf2ee;
+  width: fit-content;
+  background-clip: padding-box; /* !importanté */
+  border: solid 2px transparent; /* !importanté */
+  border-radius: 4px;
+}
+.gradient-box:before {
+content: '';
+position: absolute;
+top: 0; right: 0; bottom: 0; left: 0;
+z-index: -1;
+margin: -2px; /* !importanté */
+border-radius: inherit; /* !importanté */
+background: linear-gradient(to bottom right, #3ae05e, #27d6b8);
+}
+.gradient-box:hover {
+    color: #0c2e13 !important;
+    background: #27d6b8;
+    transition: 200ms linear; 
+}
+
+
+.logo {
+    border: none;
+    margin: .25em;
+    background-color: none;
+    color: #0c2e13 !important;
+    padding: 0;
+}
+
+</style>
