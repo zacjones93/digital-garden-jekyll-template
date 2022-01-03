@@ -1,5 +1,6 @@
 ---
 title: Knowledge Adventure Clubs
+tags: dev
 ---
 
 Knowledge Adventure clubs are groups of people that meet on a regular basis to work through content together. They are based on the [[Knowledge Hydrant]] model.

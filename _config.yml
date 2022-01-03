@@ -13,7 +13,7 @@ relative_permalinks: false
 plugins:
   - jekyll-last-modified-at
 
-graph: ["nutrition", "CrossFit", "design", "business"]
+graph: ["nutrition", "CrossFit", "design", "business", "dev"]
 
 sass:
   sass_dir: _sass

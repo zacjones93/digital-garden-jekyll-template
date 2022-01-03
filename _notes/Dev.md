@@ -1,5 +1,6 @@
 ---
 title: Dev
+tags: dev
 ---
 
 ## Articles
