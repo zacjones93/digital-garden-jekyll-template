@@ -18,7 +18,10 @@ tags: [design]
 - [[color]]
 
 ## Crafting Intent
-- [[Badass-- Making Users Awesome]]
+
+- [[value based design]]
+
+- [[Badass Making Users Awesome]]
 - [[Understanding by Design]]
 - [[Christopher Alexanders System Design]]
 
