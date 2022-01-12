@@ -206,4 +206,3 @@ const handleChange = evt => {
   setUserInput({[name]: value});
 }
 ```
-<iframe src="https://codesandbox.io/embed/github/zacjones93/blog-posts/tree/master/handle-multiple-inputs-hooks?module=%2Fsrc%2FApp.js" style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;" sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"></iframe>
