@@ -1,6 +1,6 @@
 ---
 title: storefront ui project brief
-tags: dev
+tags: design
 ---
 
 This is a initial [[learning task]] that I've iterated on. The previous iteration of this project brief was tied closely to a framework (Vue 3) and course that egghead published with [[Kevin Cunningham]].
