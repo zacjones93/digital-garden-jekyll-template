@@ -6,6 +6,7 @@ tags: dev
 ## Notes
 
 - [[Use console.dir to Log Deeply Nested Objects]]
+- [[storefront ui project brief]]
 
 ## Articles
 
