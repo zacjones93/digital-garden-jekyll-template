@@ -4,7 +4,3 @@ tags: design
 ---
 
 - [[Essential Questions]]
-
-
-
-- [[The Carpentries]]

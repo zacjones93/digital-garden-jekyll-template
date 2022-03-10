@@ -3,7 +3,10 @@ title: learning task
 tags: design
 ---
 
-At [[egghead]], we've been talking alot about how real life projects and apps are ill-structured and multidisciplinary. This is what a learning task is
+A [[10 Steps]] instructional design concept.
+
+
+At [[egghead]], we've been talking alot about how real life projects and apps are ill-structured and multidisciplinary. This is what a learning task is.
 
 Ill-structured means there are trade-offs, unknown aspects, and multiple acceptable solutions that you need to weigh. You don't just get a cookie cutter problem that fits has a clear solution.
 
