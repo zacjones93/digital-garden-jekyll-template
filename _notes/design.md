@@ -21,8 +21,9 @@ tags: [design]
 
 - [[value based design]]
 
+- [[instructional design]]
+
 - [[Badass Making Users Awesome]]
-- [[Understanding by Design]]
 - [[Christopher Alexanders System Design]]
 
 ## Articles
