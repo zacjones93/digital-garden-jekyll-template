@@ -88,11 +88,11 @@ a {
   text-decoration: none;
   border-bottom: 1px solid $color-border;
   color: $color-text;
+  padding: 2px;
+  border-radius: $border-radius;
   &:hover {
     color: black !important;
     background: $color-border;
-    padding: 2px;
-    border-radius: $border-radius;
     border-bottom: 1px solid $color-border;
   }
   &:after {
