@@ -4,3 +4,6 @@ _site/
 .jekyll-metadata
 _includes/tagged_notes_graph.json
 .DS_Store
+node_modules
+vendor/
+.bundle

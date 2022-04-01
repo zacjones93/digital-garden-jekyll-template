@@ -35,12 +35,12 @@ permalink: /
     </p>
     <p>Currently there are four main categories that I am exploring:</p>
   </div>
-  <img style="margin: 0; width: 300px; height: 300px;" src="../../assets/logo-400.png">
+  <img class="plant-hero" style="position: absolute; margin-top: 3em; opacity: 0;" src="../../assets/logo-400.png">
 </div>
 
 
 <div class="breakout">
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <div class="cards" style="display: flex; justify-content: center; flex-wrap: wrap;">
     <div class="card-wrapper">
       <div>
       <img class="image-small" src="../../assets/logo-small.png">
@@ -116,6 +116,8 @@ permalink: /
 </div>
 
 
+
+
 <style>
   .phone-hero {
     display: block;
@@ -145,7 +147,6 @@ permalink: /
   .content-fit {
     width: fit-content;
   }
-
   .sm-center-content {
     margin: auto;
   }
