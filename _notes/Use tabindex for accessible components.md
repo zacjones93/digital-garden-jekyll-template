@@ -1,5 +1,5 @@
 ---
-title: Use tabindex for accessible links
+title: Use tabindex for accessible components
 tags: dev
 ---
 
