@@ -7,6 +7,7 @@ tags: dev
 
 - [[Use console.dir to Log Deeply Nested Objects]]
 - [[storefront ui project brief]]
+- [[Use tabindex for accessible links]]
 
 ## Articles
 
