@@ -3,6 +3,8 @@ title: Four Blueprint Components
 tags: design
 ---
 
+Chapter 2 [[10 Steps]]
+
 ## Summary
 
 The four blueprint components of [[10 Steps]] are:

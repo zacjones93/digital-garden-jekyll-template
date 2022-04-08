@@ -3,6 +3,8 @@ title: A New Approach to Instruction
 tags: design
 ---
 
+Chapter 1 [[10 Steps]]
+
 ## Summary
 
 Knowledge transfer to other areas/contexts is a big goal of education. In the context that I am in, this is especially true. We want to learn a new hot JavaScript framework that will help us solve the problem we have at work or build the product/feature we want to build in a better/easier/more maintainable way.
