@@ -15,7 +15,9 @@ After a little research, I found that you can set an elements `tabIndex={0}` (I'
 <Link href={`/projects/${project.slug}`}>
   <a 
     tabIndex={0} 
-    className='px-6 py-8 rounded cursor-pointer w-fit h-fit bg-slate-100 hover:ring-2 ring-secondary focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-secondary'
+    className='px-6 py-8 rounded cursor-pointer w-fit h-fit bg-slate-100 
+    hover:ring-2 ring-secondary focus:outline-none 
+    focus:ring-2 focus:ring-offset-2 focus:ring-secondary'
   >
     <div className='flex flex-col mx-auto w-fit'>
       <div>
