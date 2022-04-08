@@ -6,7 +6,15 @@
   font-size: 0.9em;
   overflow: auto;
   margin: 1em -1em;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
 }
+
+div.highlight {
+  display: grid;
+}
+
+
 .highlight .c { color: #999988; font-style: italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
 .highlight .k { font-weight: bold } /* Keyword */
