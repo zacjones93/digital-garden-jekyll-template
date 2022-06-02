@@ -28,7 +28,7 @@ tags: [design]
 
 ## Typography
 
-- [[what is a rag?]]
+- [[what is a rag]]
 
 ## Articles
 

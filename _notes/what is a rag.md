@@ -1,5 +1,5 @@
 ---
-title: what is a rag?
+title: what is a rag
 tags: design
 ---
 
