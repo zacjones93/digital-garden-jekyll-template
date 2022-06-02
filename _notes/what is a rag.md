@@ -3,7 +3,7 @@ title: what is a rag?
 tags: design
 ---
 
-https://thegoodpage.net/2015/11/21/rags-widows-orphans/
+[source](https://thegoodpage.net/2015/11/21/rags-widows-orphans/)
 
 A 'rag' is the uneven side of the paragraph that you are typesetting. When working with large bodies of text you are always typesetting whether you know it or not and rag is one of those concepts that once you see it, you can't unsee it.
 
