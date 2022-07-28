@@ -8,7 +8,7 @@
 
   <meta charset="UTF-8">
 
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+  <link rel="canonical" href="{{ site.url }}{{ page.url.downcase }}" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -39,7 +39,7 @@
   <meta property="article:author" content="{{ site.url }}/">
   {% endif %}
 
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url.downcase }}" />
   
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@zacjones93" />
