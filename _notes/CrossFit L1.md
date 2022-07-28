@@ -124,7 +124,7 @@ The overlap of different sports is fitness
 
 Different models of fitness
 
-### [[10 general physical skills]]
+### [[Ten general physical skills]]
 
 Balance of physiological adaptations
 

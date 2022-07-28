@@ -3,11 +3,11 @@ title: Four Blueprint Components
 tags: design
 ---
 
-Chapter 2 [[10 Steps]]
+Chapter 2 [[Ten Steps]]
 
 ## Summary
 
-The four blueprint components of [[10 Steps]] are:
+The four blueprint components of [[Ten Steps]] are:
 
 - [[learning task]]s 
   These are the tasks that reflect the real world in which they would be performed (though possibly simplified and highly supported). They can be case studies, projects, problems, or professional tasks, etc.

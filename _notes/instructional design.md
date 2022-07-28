@@ -7,7 +7,7 @@ tags: design
 
 - [[understanding by design]]
     - [[Essential Questions]]
-- [[10 Steps]]
+- [[Ten Steps]]
     - [[learning task]]
 
 ## Project Briefs

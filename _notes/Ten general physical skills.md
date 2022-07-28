@@ -1,5 +1,5 @@
 ---
-title: 10 general physical skills
+title: Ten general physical skills
 tag: 'CrossFit'
 ---
 

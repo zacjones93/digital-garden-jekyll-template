@@ -3,7 +3,7 @@ title: A New Approach to Instruction
 tags: design
 ---
 
-Chapter 1 [[10 Steps]]
+Chapter 1 [[Ten Steps]]
 
 ## Summary
 
@@ -17,7 +17,7 @@ This is one reason why "Just read the docs and figure it out" can be a painful j
 
 Functions and API need to be presented in the context that they are used in for you to truly grasp how to complete a feature / app (aka [[whole task]]).
 
-[[10 Steps]] is a wholistic approach to learning design that attempts to capture the complexity of systems, patterns and processes in the simplest way possible while maintaining the essence of what you're trying to learn (vs. dealing with [[Fragmentation]] and [[Compartmentalization]] with a atomistic approach).
+[[Ten Steps]] is a wholistic approach to learning design that attempts to capture the complexity of systems, patterns and processes in the simplest way possible while maintaining the essence of what you're trying to learn (vs. dealing with [[Fragmentation]] and [[Compartmentalization]] with a atomistic approach).
 
 To do this, as mentioned in the title of the framework, there are 10 steps to learning design:
 

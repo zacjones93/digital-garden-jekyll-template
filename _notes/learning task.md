@@ -3,7 +3,7 @@ title: learning task
 tags: design
 ---
 
-A [[10 Steps]] instructional design concept.
+A [[Ten Steps]] instructional design concept.
 
 
 At [[egghead]], we've been talking alot about how real life projects and apps are ill-structured and multidisciplinary. This is what a learning task is.

@@ -1,5 +1,5 @@
 ---
-title: 10 Steps
+title: Ten Steps
 tags: design
 ---
 
