@@ -36,14 +36,14 @@ class BidirectionalLinksGenerator < Jekyll::Generator
     all_notes.each do |current_note|
 			# Nodes: Jekyll
       notes_linking_to_current_note = all_notes.filter do |e|
-        e.content.include?(current_note.url | downcase)
+        e.content.include?(current_note.url.downcase)
       end
 
       sub_graph_nodes.each {|key, value| 
         if current_note.data['tags'].include?("#{key}")
           value << {
             id: note_id_from_note(current_note),
-            path: current_note.url | downcase,
+            path: current_note.url.downcase,
             label: current_note.data['title'],
           } unless current_note.path.include?('_notes/index.html')
         end
