@@ -16,6 +16,6 @@ tags: dev
 
 ## egghead
 
-- [[Kent C. Dodds Lesson Creation Process]]
+- [[Kent C Dodds Lesson Creation Process]]
 - [[Knowledge Adventure Clubs]]
 - [[High Quality Screen Casts Are Well-Scoped with a Single Take-Away]]

@@ -3,10 +3,6 @@ title: Handle Multiple Inputs in React with ES6 Computed Property Name
 tags: dev
 ---
 
-In a [different post](www.zacjones.io/handle-multiple-inputs-in-react) I walk through a solution to handling multiple inputs in React using class Components and traditional Component state. This post is, in a sense, a refactoring of that post to update for React Hooks that have been [officially released as of React 16.8.0](https://github.com/facebook/react/blob/master/CHANGELOG.md#1680-february-6-2019).
-
-You'll notice that the set up is the same.
-
 [create-react-app (CRA)](https://github.com/facebook/create-react-app) was used to generate the necessary boilerplate to start this React application. If you haven't used it before, you should! There is zero configuration and you won't need to touch Webpack or Babel. 😄
 
 Here's a great tutorial on CRA if you haven't heard about it before: [Bootstrap a React Application through the CLI with Create React App](https://egghead.io/lessons/react-bootstrap-a-react-application-through-the-cli-with-create-react-app)

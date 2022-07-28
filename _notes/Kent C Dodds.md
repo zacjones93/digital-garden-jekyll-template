@@ -1,5 +1,5 @@
 ---
-title: Kent C. Dodds
+title: Kent C Dodds
 ---
 
 [[egghead instructor]]
