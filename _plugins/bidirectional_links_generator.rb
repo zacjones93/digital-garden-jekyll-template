@@ -27,7 +27,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
       all_docs.each do |note_potentially_linked_to|
         current_note.content = current_note.content.gsub(
           /\[\[#{note_potentially_linked_to.data['title']}\]\]/i,
-          "<a class='internal-link' href='#{note_potentially_linked_to.url}'>#{note_potentially_linked_to.data['title']}</a>"
+          "<a class='internal-link' href='#{note_potentially_linked_to.url | downcase }'>#{note_potentially_linked_to.data['title']}</a>"
         )
       end
     end
@@ -36,14 +36,14 @@ class BidirectionalLinksGenerator < Jekyll::Generator
     all_notes.each do |current_note|
 			# Nodes: Jekyll
       notes_linking_to_current_note = all_notes.filter do |e|
-        e.content.include?(current_note.url)
+        e.content.include?(current_note.url | downcase)
       end
 
       sub_graph_nodes.each {|key, value| 
         if current_note.data['tags'].include?("#{key}")
           value << {
             id: note_id_from_note(current_note),
-            path: current_note.url,
+            path: current_note.url | downcase,
             label: current_note.data['title'],
           } unless current_note.path.include?('_notes/index.html')
         end
