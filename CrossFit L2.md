@@ -1,0 +1,400 @@
+---
+title: CrossFit L2
+tags: CrossFit
+image: ./crossfit-l2.jpeg
+---
+
+
+[[CrossFit L2]]
+
+# lecture 1
+## 6 Attributes of Effective Training
+
+### Teaching
+- Knowledge 
+	- Things you gain through watching or studying
+- Communication 
+	- transfer of knowledge
+	- How 
+	- Layer in points of performance (PoP)
+	- Process
+		- Tell
+		- Show
+		- Do
+		- Check
+	- Do the Process as you keep layering PoP
+	- Be simple in how you teach
+- Seeing
+	- Determine sound from unsound movement
+		- need to know what is good and bad
+	- Types
+		- Static positions
+			- Easier to see because there's more time there
+			- Scan for faults all around the room
+		- Dynamic transitions
+			- Movement in between static positions
+			- Faster
+			- More complex
+			- When correcting, watch one person at a time
+	- watch more people move
+- Correcting
+	- Cues
+		- Use those that are successful
+		- Qualities
+			- Short
+			- Specific
+			- Actionable
+			- 95% of the time should be this format
+		- Good format
+			- body part, and direction
+		- Types
+			- Verbal
+			- Visual
+				- Hyper exaggeration is useful here
+			- Tactile
+	- Triaging
+		- Order of operations when correcting movement
+			- Safety of the back is the biggest one
+			- Find cues that address multiple issues
+	- Balance relentlessness and acknowledgement
+		- Relentless
+			- Stick with the athlete until you know the athlete isn't going to get any better in the moment
+		- acknowledgment 
+			- Tell them what the did well
+			- Where you saw them improve
+- Group Management
+	- Optimizing client/athlete experience in the gym
+		- Plan ahead
+			- Lesson planning!
+			- You will always be better
+		- What goes into every single minute for the class
+			- Warm up
+			- Points of performance to work on
+				- Cues that you're going to use
+- Presence & Attitude
+	- required to be great at coaching
+		- Care
+		- Empathy
+		- Passion for Service
+	- It's all about connecting with an athlete
+		- Figure out what they want
+		- Type of communication
+			- Stern
+			- Motivating
+			- Encouraging
+	- "Be the big YOU"
+		- Dial up your personality at 10
+		- Steal a little bit from other coaches that you lack
+- Demonstartion
+	- Movement
+		- Demo 
+			- Do it well
+			- Do it poorly
+		- Goal is always to show you're working towards better movement
+	- Lifestyle
+		- Following the program
+		- Nutrition
+
+# Lesson Plan
+- Demo
+- Set up
+	- Start with feet under hips
+		- find this by giving a few hops 
+		- That's your jumping stance
+- Progression
+	- Jump and land with hands at sides
+		- Foot work
+			- Move the feet
+			- lets hear those feet in the landing position
+	- Jump and land with hands at shoulders
+			- Dip and drive
+				- Keep torso 
+	- Jump and extend the arms after the hips open
+		- Full extension
+	- Drop jerk
+	- Push jerk
+- Take away
+	- Simplify!
+	- What's the reason behind each movement
+	- What is most important in the movement
+
+# Common Movement Themes
+- The road map to seeing better
+- Benefits
+	- Performance
+	- Safety
+- observe
+- Faults
+- Themes
+	- Midline stabilization
+		- Transition of force through the body
+		- force transfers with a tight core
+		- nuetral spine
+			- Pelvis stays in line with it
+		- faults
+			- Flexion of the spine
+				- Deadlift
+				- Frontsquat
+			- hyper extension
+				- Overhead
+		- small number of acceptable deviations
+	- Core to extremity
+		- Hand of between high force movers to high velocity movers
+			- Fv -> fv - fV
+		- from core to limbs
+			- "wave of contraction"
+		- faults
+			- Arms pull early
+				- Bar will look further away
+	- Balance about the frontal plane
+		- Divides athlete in half from the mid foot
+		- Most efficient path to apply more power on an object
+		- Looking at the athlete and the object
+		- Question
+			- Mobility issue with people
+				- Trade off on having the work on the movement and switching to another lift so they can move load
+	- Posterior chain engagemnet
+		- Utilize the strong muscles on the back side
+			- They are the big muscles and power output
+		- leverage backside of the body means more balance
+		- Pressure in feet
+		- Knees track with toes
+		- Hips always extend first
+			- Then knees
+			- Then ankles
+	- Sound hip function
+		- Hips have the ability to produce the most force in many movements
+		- 'Muted hip'
+			- No hip flexion
+		- extend hip quickly
+	- Active shoulders
+		- Natural and neutral position
+		- Provide pressure against the load
+		- "Yielding to load"
+		- Internal rotation
+		- Contrived positions
+			- 'Pinch your shoulder blades together'
+			- Neutral, not over engaged
+	- Full range of motion
+		- Natural anatomical end ranges
+			- Build flexibility and strength in end ranges
+		- Strengthening end range of motion is rehabilitative
+	- Effective stance
+		- Feet under hips
+			- Most powerful position
+		- Shoulder width
+			- More range of motion for hips to drop for squatting
+		- 
+# Feedback
+- focus on how when focusing on pop
+- Look for one thing
+	- Don't respond to what is happening
+- 22 filler word
+	- Be intentional with filler words
+- check backs after correction
+- Don't have to move perfectly in the progression
+
+# Nutrition
+- Behavior change
+- Dr. Albert Bandera
+- Self efficacy
+	- The belief in oneself that you can make the change
+	- Ways to gain self efficacy
+		- Mastery experiences
+			- Small wins on a day to day basis
+			- Fast iterations towards the goal
+		- Vicarious experiences
+			- Testimonials
+			- Be around people that show you it's possible
+		- Emotional and physiological satates
+			- States of mindset
+				- Anxiety
+				- Depression
+			- having empathy for those stages/mindsets
+		- verbal And social persuasion
+			- supporting clients through this process
+			- Educational pieces
+	- goal is to balance the aspects of self efficacy as going through stages
+	- stages
+		- Contemptlation
+			- Recognize problem
+			- Desire to make the change
+			- Take away
+				- Educate!
+					- Small talks
+						- Types of foods
+							- Examples
+							- What are you eating?
+						- Meal prep
+							- Maybe the don't eat
+							- Quality is best early on
+					- larger lectures
+						- Make a food log
+			-  perception is reality
+			- They know they have a problem but not a high definition solution
+		- Action
+			- Change is happening
+			- Connect them with people who walk the walk
+				- Testimonials
+				- Before/after success stories
+			- Lead by example
+				- People are watching
+			- Direct vs. progressive approach
+			- Accountability and feedback are critical'
+		- Maintenance
+			- Healthy skills aquired
+			- long-term sustainability
+			- Continue to educate
+				- Emotional and esteem support
+				- Informational
+			- show them the data
+				- Progress through numbers
+
+
+
+# Programming
+- It's all about Fitness
+- What builds fitness
+	- Variance
+	- Intensity
+- secondary to
+	- Effective programming
+	- Consistency 
+	- Intensity that workouts are done at
+	- Effective scaling
+- Analyze the effectiveness
+	- Measure
+		- Benchmarks
+		- Have to look at a lot of different time and modal domains
+		- Improved performance markers
+		- Improved health markers
+		- Developing skills
+	- Log books
+		- Software
+		- Whiteboard
+	- target weakspots
+		- if you spot a weakness, add movements that build capacity in that area
+- Create Variance
+	- (F*d) / t = Power === Itensity
+		- drives results
+	- Vary
+		- loads
+		- duration
+			- 15 minutes or less
+		- Reps
+			- Task priority
+				- More intensity
+		- Movements
+			- Couplets
+			- Triplets
+			- Singles
+			- full body / high power movements
+			- Complimentary movement functions
+- Scale Effectively
+	- Preserve the stimulus of the workout
+	- Match the relative intensity of the athlete
+	- Populations to scale for
+		- Beginners
+			- New to crossfit
+			- Scale intensity
+			- Minimize load
+			- Minimize number of reps and time domains
+			- Scale the range of motion or movement mechanics
+		- Intermediate
+			- 6 months - 3 years
+			- Maybe they Rx some things
+			- Provide scales that actually challenge them
+				- Scale the volume
+				- Change up the scale to build the different skills of a movement
+		- Advanced
+			- 3+ years of CrossFit
+			- also need scaling
+			- Scale them down and make them work on mechanics
+			- "Do reps unbroken"
+		- Injured
+			- Keep them coming in from the gym
+			- Work on one side
+- Address Weaknesses
+	- Build in skills
+		- Warm ups
+		- Cool downs
+			- Skill development
+				- Rope climb work at the end
+				- Getting under the bar
+	- Keep id'ing new weaknesses
+	- Shouldn't steal from the focus of the workout
+# Lesson planning
+```
+21-15-9
+Bar Muscle Up
+Push Jerk (105/155)
+```
+- a skill to be developed
+- Session elements
+	- Intro / whiteboard brief
+	- Warm up period
+		- General warm up
+		- Specific warm up
+		- Break
+	- Workout itself
+	- Cooldown
+- Timeline
+	- Determin Stimulus
+		- Basic math method
+			- BMU
+				- 3-5 seconds per rep x 45
+				- 2:15 - 4:45
+			- Push Jerk
+				- 2-4 second per rep x 45
+				- 1:30 - 3:00
+			- Total
+				- 3:45 - 7:45
+			- Transitions
+				- 15 seconds Per transition
+				- 5 tranistions
+				- break up into 2 sets
+				- Total now
+					- 6:30 - 10:30
+			- Movement interference and high skill
+				- Always takes a little longer than needed
+				- 8:00 - 14:00
+		- Walk through the workout as the athlete you're programming for
+	- Determine the timestamps
+		- Initial structure
+			- 0
+			- 5
+			- 50
+			- 60
+		- Non- negotiable time stamps
+			- 03 - Brief 
+			- 05 - Transition
+			- 34 - pre-WOD break
+			- 38 - workout
+				- 14 minute the cooldown time
+			- 52 - cool down
+	- Warm ups
+		- Within the 5 - 38 time stamps
+			- 10 - general warm ups
+			- 22 - Push Jerk
+				- 7 teaching minutes
+				- 4 logistics 
+			- 32 Bar Muscle up
+				- Climbing pull up drill 
+			- 34 - test round
+		- General warm up
+			- Super general
+	 - Cool down
+	 - Return to homeostasis
+ - Brief
+	 - What it is
+	 - Stimulus
+	 - Scaling options
+	 - Injuries
+	 - Directions for next steps
+	 - Tip of the iceberg 
+		 - Don't spew knowledge.
+
+
+
+
+

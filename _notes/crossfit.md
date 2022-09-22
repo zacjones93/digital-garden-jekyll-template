@@ -33,6 +33,8 @@ Training these [[Movements]] will prepare you for life.
 
 ## Coaching
 
+Read more about coaching from my notes on the [[CrossFit L2]] seminar.
+
 I have recently started my coaching journey after 8 years of being an athlete with CrossFit. Below you will find my notes on different aspects of coaching.
 
 A foundational piece to coaching within CrossFit (and in general!) is the progressions that you take people through to warm up as well as build the skill and body awareness necessary to perform movements with excellence.
