@@ -4,6 +4,8 @@ tags: business
 image: ./dall-e-2022-10-24-18-40-34-stacks-of-poker-chips-arranged-on-a-table-digital-art.png
 ---
 
+Talk given by [[John Cutler]] on how to make every bet count. You can find source material here: https://miro.com/app/board/uXjVPSwP-Po=/
+
 ## Summary
 
 In any project, we want to move the needle forward for the product that we are building and ultimately the business. The temptation of early career product managers is to plan projects that tick every box and "get everything done." 
@@ -27,7 +29,6 @@ The goal of project planning is to focus on a small number of drivers and limiti
 
 
 ## Notes
-- https://miro.com/app/board/uXjVPSwP-Po=/
 - 00:00:19 - product manager spidey sense
 - 00:04:18 - Less experienced product manager: How can we get everything done?
 - 00:04:30 - more EXP: What's the core problem? What's the crux of the issue?
