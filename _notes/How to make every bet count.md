@@ -1,6 +1,7 @@
 ---
 title: How to make every bet count
 tags: business
+image: ./dall-e-2022-10-24-18-40-34-stacks-of-poker-chips-arranged-on-a-table-digital-art.png
 ---
 
 ## Summary
