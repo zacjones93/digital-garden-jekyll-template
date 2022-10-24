@@ -42,10 +42,9 @@ class BidirectionalLinksGenerator < Jekyll::Generator
 
       sub_graph_nodes.each {|key, value| 
         if current_note.data['tags'].include?("#{key}")
-
           value << {
-            id: note_id_from_note(current_note.url),
-            path: note_path,
+            id: note_id_from_note(current_note),
+            path: "#{site.baseurl}#{current_note.url}",
             label: current_note.data['title'],
           } unless current_note.path.include?('_notes/index.html')
         end
@@ -86,6 +85,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
 
   end
   def note_id_from_note(note)
-    note.data['title'].delete(' ').delete('-').to_i(36).to_s
+      Jekyll.logger.debug note
+      note.data['title'].delete(' ').delete('-').to_i(36).to_s
   end
 end
