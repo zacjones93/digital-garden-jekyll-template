@@ -4,45 +4,28 @@ function animateHeroImage(selector) {
     tl.fromTo(
         selector,
         3,
-        { css: { opacity: 0, width: '0px', height: '0px', marginLeft: '60em'} },
-        { css: { opacity: 1, width: '300px', height: '300px', marginLeft: '38em' } }
+        { css: { opacity: 0, width: '0px', height: '0px', marginLeft: '38em', marginTop: '25em' } },
+        { css: { opacity: 1, width: '300px', height: '300px', marginLeft: '38em', marginTop: '0em' } }
       )
 }
 
-function animateTopicBoxes(selector) {
+function animateBoxBorders(selector) {
   const boxes = document.querySelectorAll(selector)
-
-  boxes.forEach((box) => {
-    gsap.fromTo(box, 
-      {
-        display: 'none',
-        height: 0,
-        padding: '1em',
-        margin: '.5em',
-        background: '#CCF2D4', 
-        borderRadius: '4px', 
-        border: '1px solid #27D6B8', 
-        width: '12em',
-        duration: .5,
-      },
-      {
-      display: 'block',
-      height: 'inherit',
-      padding: '1em',
-      margin: '.5em',
-      background: '#CCF2D4', 
-      borderRadius: '4px', 
-      border: '1px solid #27D6B8', 
-      width: '12em',
-      ease: 'none',
-      duration: 3,
-    })
-  })
+  const tl = new gsap.timeline({ scrollTrigger: boxes })
+  
+  tl.fromTo(
+    boxes,
+    3,
+    {borderWidth: "thick"},
+    {borderWidth: "thin"}
+  )
+  
 }
 
 
+
 function callHomeAnimations() {
-  //animateTopicBoxes(".card-wrapper")
+  //animateBoxBorders(".card-wrapper")
   animateHeroImage('.plant-hero')
 }
 

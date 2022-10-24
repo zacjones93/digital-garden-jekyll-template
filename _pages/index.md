@@ -24,7 +24,7 @@ permalink: /
     <p>Currently there are four main categories that I am exploring:</p>
 </div>
 
-<div class="laptop-hero">
+<div class="laptop-hero" style="position: relative; overflow: hidden;">
   <div class="text-wrapper">
     <h1 style="margin-top: 0;"> Welcome!</h1>
     <p>
@@ -35,7 +35,7 @@ permalink: /
     </p>
     <p>Currently there are four main categories that I am exploring:</p>
   </div>
-  <img class="plant-hero" style="position: absolute; margin-top: 3em; opacity: 0;" src="../../assets/logo-400.png">
+    <img class="plant-hero" style="position: absolute; margin-top: 3em; opacity: 0;" src="../../assets/logo-400.png">
 </div>
 
 
