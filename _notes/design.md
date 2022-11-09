@@ -26,7 +26,7 @@ tags: [design]
 - [[Badass Making Users Awesome]]
 - [[Christopher Alexanders System Design]]
 
-- [[OOUX: A foundation for Interaction Design]]
+- [[OOUX A foundation for Interaction Design]]
 
 ## Typography
 
