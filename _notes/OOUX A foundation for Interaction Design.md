@@ -1,5 +1,5 @@
 ---
-title: OOUX: A foundation for Interaction Design
+title: OOUX- A foundation for Interaction Design
 tags: design
 ---
 
