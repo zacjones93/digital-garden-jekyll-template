@@ -8,6 +8,7 @@ tags: baking
 
 Would be good to [[sales safari]] it
 
+- [[Hydrate dry sourdough starter]]
 
 My most successful recipe:
 - [[Whole Grain Sourdough]]
